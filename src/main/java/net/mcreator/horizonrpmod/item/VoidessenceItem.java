@@ -12,7 +12,7 @@ import net.mcreator.horizonrpmod.procedures.VoidessencePlayerFinishesUsingItemPr
 
 public class VoidessenceItem extends Item {
 	public VoidessenceItem() {
-		super(new Item.Properties().stacksTo(1).rarity(Rarity.COMMON).food((new FoodProperties.Builder()).nutrition(4).saturationMod(0.3f).alwaysEat().build()));
+		super(new Item.Properties().stacksTo(64).rarity(Rarity.COMMON).food((new FoodProperties.Builder()).nutrition(4).saturationMod(0.3f).alwaysEat().build()));
 	}
 
 	@Override

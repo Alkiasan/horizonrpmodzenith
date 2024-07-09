@@ -239,6 +239,34 @@
           "src/main/java/net/mcreator/horizonrpmod/item/VoidessenceItem.java"
         ]
       }
+    },
+    {
+      "name": "Voidtendril",
+      "type": "item",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "voidtendril",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/horizonrpmod/item/VoidtendrilItem.java",
+          "src/main/resources/assets/horizonrpmod/models/item/voidtendril.json"
+        ]
+      }
+    },
+    {
+      "name": "Voidchunk",
+      "type": "item",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "voidchunk",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/horizonrpmod/item/VoidchunkItem.java",
+          "src/main/resources/assets/horizonrpmod/models/item/voidchunk.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -246,15 +274,17 @@
   "tag_elements": {},
   "language_map": {
     "en_us": {
-      "item.horizonrpmod.voidessence": "Voidessence",
+      "item.horizonrpmod.voidessence": "Void Essence",
       "item.horizonrpmod.lilyplush": "Lily Plush",
       "item.horizonrpmod.mortarandpestle": "Mortarandpestle",
+      "item.horizonrpmod.voidchunk": "Void Chunk",
       "item.horizonrpmod.amulet": "Amulet",
       "item.horizonrpmod.notepad": "Notepad",
       "item.horizonrpmod.okane": "Okane",
       "item.horizonrpmod.denari": "Denari",
       "item.horizonrpmod.usbstick": "Usbstick",
       "item.horizonrpmod.floppydisk": "Floppydisk",
+      "item.horizonrpmod.voidtendril": "Void Tendril",
       "item.horizonrpmod.ri": "Ri",
       "item.horizonrpmod.crown": "Crown",
       "item.horizonrpmod.pearl": "Pearl",

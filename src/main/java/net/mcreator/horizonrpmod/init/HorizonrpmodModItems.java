@@ -11,7 +11,9 @@ import net.minecraftforge.registries.DeferredRegister;
 import net.minecraft.world.item.Item;
 
 import net.mcreator.horizonrpmod.item.WornnotepadItem;
+import net.mcreator.horizonrpmod.item.VoidtendrilItem;
 import net.mcreator.horizonrpmod.item.VoidessenceItem;
+import net.mcreator.horizonrpmod.item.VoidchunkItem;
 import net.mcreator.horizonrpmod.item.UsbstickItem;
 import net.mcreator.horizonrpmod.item.RiItem;
 import net.mcreator.horizonrpmod.item.PearlshardItem;
@@ -44,6 +46,8 @@ public class HorizonrpmodModItems {
 	public static final RegistryObject<Item> WORNNOTEPAD = REGISTRY.register("wornnotepad", () -> new WornnotepadItem());
 	public static final RegistryObject<Item> AMULET = REGISTRY.register("amulet", () -> new AmuletItem());
 	public static final RegistryObject<Item> VOIDESSENCE = REGISTRY.register("voidessence", () -> new VoidessenceItem());
+	public static final RegistryObject<Item> VOIDTENDRIL = REGISTRY.register("voidtendril", () -> new VoidtendrilItem());
+	public static final RegistryObject<Item> VOIDCHUNK = REGISTRY.register("voidchunk", () -> new VoidchunkItem());
 	// Start of user code block custom items
 	// End of user code block custom items
 }

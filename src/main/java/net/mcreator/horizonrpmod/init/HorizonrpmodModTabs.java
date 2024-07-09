@@ -33,6 +33,8 @@ public class HorizonrpmodModTabs {
 				tabData.accept(HorizonrpmodModItems.WORNNOTEPAD.get());
 				tabData.accept(HorizonrpmodModItems.AMULET.get());
 				tabData.accept(HorizonrpmodModItems.VOIDESSENCE.get());
+				tabData.accept(HorizonrpmodModItems.VOIDTENDRIL.get());
+				tabData.accept(HorizonrpmodModItems.VOIDCHUNK.get());
 			})
 
 					.build());

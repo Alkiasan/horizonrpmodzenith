@@ -206,6 +206,39 @@
           "src/main/java/net/mcreator/horizonrpmod/item/AmuletItem.java"
         ]
       }
+    },
+    {
+      "name": "VoidessencePlayerFinishesUsingItem",
+      "type": "procedure",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "voidessence_player_finishes_using_item",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/horizonrpmod/procedures/VoidessencePlayerFinishesUsingItemProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Voidessence",
+      "type": "item",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "voidessence",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/horizonrpmod/models/item/voidessence.json",
+          "src/main/java/net/mcreator/horizonrpmod/item/VoidessenceItem.java"
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -213,6 +246,7 @@
   "tag_elements": {},
   "language_map": {
     "en_us": {
+      "item.horizonrpmod.voidessence": "Voidessence",
       "item.horizonrpmod.lilyplush": "Lily Plush",
       "item.horizonrpmod.mortarandpestle": "Mortarandpestle",
       "item.horizonrpmod.amulet": "Amulet",

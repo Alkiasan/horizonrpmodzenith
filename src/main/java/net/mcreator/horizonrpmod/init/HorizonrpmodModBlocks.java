@@ -7,10 +7,6 @@ package net.mcreator.horizonrpmod.init;
 import net.minecraftforge.registries.RegistryObject;
 import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.DeferredRegister;
-import net.minecraftforge.fml.common.Mod;
-import net.minecraftforge.eventbus.api.SubscribeEvent;
-import net.minecraftforge.client.event.RegisterColorHandlersEvent;
-import net.minecraftforge.api.distmarker.Dist;
 
 import net.minecraft.world.level.block.Block;
 
@@ -32,14 +28,6 @@ public class HorizonrpmodModBlocks {
 	public static final RegistryObject<Block> PLANTMATTER = REGISTRY.register("plantmatter", () -> new PlantmatterBlock());
 	public static final RegistryObject<Block> STATICVOID = REGISTRY.register("staticvoid", () -> new StaticvoidBlock());
 	public static final RegistryObject<Block> HARDENED_VOID = REGISTRY.register("hardened_void", () -> new HardenedVoidBlock());
-
 	// Start of user code block custom blocks
 	// End of user code block custom blocks
-	@Mod.EventBusSubscriber(bus = Mod.EventBusSubscriber.Bus.MOD, value = Dist.CLIENT)
-	public static class ClientSideHandler {
-		@SubscribeEvent
-		public static void blockColorLoad(RegisterColorHandlersEvent.Block event) {
-			SakuraleavesBlock.blockColorLoad(event);
-		}
-	}
 }

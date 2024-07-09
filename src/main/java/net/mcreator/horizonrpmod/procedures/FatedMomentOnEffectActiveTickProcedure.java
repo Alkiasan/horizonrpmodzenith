@@ -10,8 +10,6 @@ public class FatedMomentOnEffectActiveTickProcedure {
 		if (entity == null)
 			return;
 		if (entity instanceof LivingEntity _entity && !_entity.level().isClientSide())
-			_entity.addEffect(new MobEffectInstance(MobEffects.HEAL, 60, 1));
-		if (entity instanceof LivingEntity _entity && !_entity.level().isClientSide())
 			_entity.addEffect(new MobEffectInstance(MobEffects.DAMAGE_BOOST, 60, 2));
 		if (entity instanceof LivingEntity _entity && !_entity.level().isClientSide())
 			_entity.addEffect(new MobEffectInstance(MobEffects.DAMAGE_RESISTANCE, 60, 1));

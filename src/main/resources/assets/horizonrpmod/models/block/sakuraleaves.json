@@ -1,5 +1,5 @@
 {
-  "parent": "block/leaves",
+  "parent": "block/cube_all",
   "textures": {
     "all": "horizonrpmod:block/sakura_leaves",
     "particle": "horizonrpmod:block/sakura_leaves"

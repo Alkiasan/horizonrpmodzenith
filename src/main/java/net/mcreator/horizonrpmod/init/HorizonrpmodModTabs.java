@@ -35,6 +35,9 @@ public class HorizonrpmodModTabs {
 				tabData.accept(HorizonrpmodModItems.VOIDESSENCE.get());
 				tabData.accept(HorizonrpmodModItems.VOIDTENDRIL.get());
 				tabData.accept(HorizonrpmodModItems.VOIDCHUNK.get());
+				tabData.accept(HorizonrpmodModBlocks.SAKURALEAVES.get().asItem());
+				tabData.accept(HorizonrpmodModBlocks.VOID_FLOWER.get().asItem());
+				tabData.accept(HorizonrpmodModBlocks.BLUELILAC.get().asItem());
 			})
 
 					.build());

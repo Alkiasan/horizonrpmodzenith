@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "horizonrpmod:block/blue_lilac_bottom",
+    "particle": "horizonrpmod:block/blue_lilac_bottom"
+  },
+  "render_type": "cutout"
+}

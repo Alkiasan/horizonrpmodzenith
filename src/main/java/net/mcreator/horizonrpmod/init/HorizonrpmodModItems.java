@@ -8,7 +8,10 @@ import net.minecraftforge.registries.RegistryObject;
 import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.DeferredRegister;
 
+import net.minecraft.world.level.block.Block;
 import net.minecraft.world.item.Item;
+import net.minecraft.world.item.DoubleHighBlockItem;
+import net.minecraft.world.item.BlockItem;
 
 import net.mcreator.horizonrpmod.item.WornnotepadItem;
 import net.mcreator.horizonrpmod.item.VoidtendrilItem;
@@ -48,6 +51,17 @@ public class HorizonrpmodModItems {
 	public static final RegistryObject<Item> VOIDESSENCE = REGISTRY.register("voidessence", () -> new VoidessenceItem());
 	public static final RegistryObject<Item> VOIDTENDRIL = REGISTRY.register("voidtendril", () -> new VoidtendrilItem());
 	public static final RegistryObject<Item> VOIDCHUNK = REGISTRY.register("voidchunk", () -> new VoidchunkItem());
+	public static final RegistryObject<Item> SAKURALEAVES = block(HorizonrpmodModBlocks.SAKURALEAVES);
+	public static final RegistryObject<Item> VOID_FLOWER = block(HorizonrpmodModBlocks.VOID_FLOWER);
+	public static final RegistryObject<Item> BLUELILAC = doubleBlock(HorizonrpmodModBlocks.BLUELILAC);
+
 	// Start of user code block custom items
 	// End of user code block custom items
+	private static RegistryObject<Item> block(RegistryObject<Block> block) {
+		return REGISTRY.register(block.getId().getPath(), () -> new BlockItem(block.get(), new Item.Properties()));
+	}
+
+	private static RegistryObject<Item> doubleBlock(RegistryObject<Block> block) {
+		return REGISTRY.register(block.getId().getPath(), () -> new DoubleHighBlockItem(block.get(), new Item.Properties()));
+	}
 }

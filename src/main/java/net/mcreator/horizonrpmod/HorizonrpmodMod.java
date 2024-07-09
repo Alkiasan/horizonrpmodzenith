@@ -18,7 +18,9 @@ import net.minecraft.resources.ResourceLocation;
 import net.minecraft.network.FriendlyByteBuf;
 
 import net.mcreator.horizonrpmod.init.HorizonrpmodModTabs;
+import net.mcreator.horizonrpmod.init.HorizonrpmodModMobEffects;
 import net.mcreator.horizonrpmod.init.HorizonrpmodModItems;
+import net.mcreator.horizonrpmod.init.HorizonrpmodModBlocks;
 
 import java.util.function.Supplier;
 import java.util.function.Function;
@@ -40,9 +42,13 @@ public class HorizonrpmodMod {
 		MinecraftForge.EVENT_BUS.register(this);
 		IEventBus bus = FMLJavaModLoadingContext.get().getModEventBus();
 
+		HorizonrpmodModBlocks.REGISTRY.register(bus);
+
 		HorizonrpmodModItems.REGISTRY.register(bus);
 
 		HorizonrpmodModTabs.REGISTRY.register(bus);
+
+		HorizonrpmodModMobEffects.REGISTRY.register(bus);
 
 		// Start of user code block mod init
 		// End of user code block mod init

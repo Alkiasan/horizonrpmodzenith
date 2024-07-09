@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "horizonrpmod:blocks/bluelilac",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "horizonrpmod:bluelilac",
+          "conditions": [
+            {
+              "block": "horizonrpmod:bluelilac",
+              "condition": "minecraft:block_state_property",
+              "properties": {
+                "half": "lower"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

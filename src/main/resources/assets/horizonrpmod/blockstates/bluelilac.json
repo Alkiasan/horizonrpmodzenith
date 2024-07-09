@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "horizonrpmod:block/bluelilac"
+    },
+    "half=lower": {
+      "model": "horizonrpmod:block/bluelilac_bottom"
+    }
+  }
+}

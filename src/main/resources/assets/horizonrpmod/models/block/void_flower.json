@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "horizonrpmod:block/voidflower",
+    "particle": "horizonrpmod:block/voidflower"
+  },
+  "render_type": "cutout"
+}

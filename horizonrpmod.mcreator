@@ -5,11 +5,11 @@
       "type": "item",
       "compiles": true,
       "locked_code": false,
-      "registry_name": "lily_plush",
+      "registry_name": "lilyplush",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/horizonrpmod/item/LilyPlushItem.java",
-          "src/main/resources/assets/horizonrpmod/models/item/lily_plush.json"
+          "src/main/resources/assets/horizonrpmod/models/item/lilyplush.json",
+          "src/main/java/net/mcreator/horizonrpmod/item/LilyPlushItem.java"
         ]
       }
     }
@@ -19,7 +19,7 @@
   "tag_elements": {},
   "language_map": {
     "en_us": {
-      "item.horizonrpmod.lily_plush": "Lily Plush"
+      "item.horizonrpmod.lilyplush": "Lily Plush"
     }
   },
   "foldersRoot": {

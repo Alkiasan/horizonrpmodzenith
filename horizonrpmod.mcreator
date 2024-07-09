@@ -3,19 +3,21 @@
     {
       "name": "LilyPlush",
       "type": "item",
+      "sortid": 2,
       "compiles": true,
       "locked_code": false,
       "registry_name": "lilyplush",
       "metadata": {
         "files": [
-          "src/main/resources/assets/horizonrpmod/models/item/lilyplush.json",
-          "src/main/java/net/mcreator/horizonrpmod/item/LilyPlushItem.java"
+          "src/main/java/net/mcreator/horizonrpmod/item/LilyPlushItem.java",
+          "src/main/resources/assets/horizonrpmod/models/item/lilyplush.json"
         ]
       }
     },
     {
       "name": "Denari",
       "type": "item",
+      "sortid": 1,
       "compiles": true,
       "locked_code": false,
       "registry_name": "denari",
@@ -29,6 +31,7 @@
     {
       "name": "Okane",
       "type": "item",
+      "sortid": 3,
       "compiles": true,
       "locked_code": false,
       "registry_name": "okane",
@@ -42,6 +45,7 @@
     {
       "name": "Ri",
       "type": "item",
+      "sortid": 4,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ri",
@@ -55,6 +59,7 @@
     {
       "name": "Crown",
       "type": "item",
+      "sortid": 5,
       "compiles": true,
       "locked_code": false,
       "registry_name": "crown",
@@ -63,6 +68,45 @@
           "src/main/resources/assets/horizonrpmod/models/item/crown.json",
           "src/main/java/net/mcreator/horizonrpmod/item/CrownItem.java"
         ]
+      }
+    },
+    {
+      "name": "Keycard",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "keycard",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/horizonrpmod/models/item/keycard.json",
+          "src/main/java/net/mcreator/horizonrpmod/item/KeycardItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Floppydisk",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "floppydisk",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/horizonrpmod/models/item/floppydisk.json",
+          "src/main/java/net/mcreator/horizonrpmod/item/FloppydiskItem.java"
+        ]
+      }
+    },
+    {
+      "name": "HorizonRP",
+      "type": "tab",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "horizon_rp",
+      "metadata": {
+        "files": []
       }
     }
   ],
@@ -73,8 +117,11 @@
     "en_us": {
       "item.horizonrpmod.denari": "Denari",
       "item.horizonrpmod.lilyplush": "Lily Plush",
+      "item.horizonrpmod.floppydisk": "Floppydisk",
       "item.horizonrpmod.ri": "Ri",
       "item.horizonrpmod.crown": "Crown",
+      "item_group.horizonrpmod.horizon_rp": "Horizon RP",
+      "item.horizonrpmod.keycard": "Keycard",
       "item.horizonrpmod.okane": "Okane"
     }
   },

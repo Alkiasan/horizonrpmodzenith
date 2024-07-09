@@ -1,10 +1,26 @@
 {
-  "mod_elements": [],
+  "mod_elements": [
+    {
+      "name": "LilyPlush",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lily_plush",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/horizonrpmod/item/LilyPlushItem.java",
+          "src/main/resources/assets/horizonrpmod/models/item/lily_plush.json"
+        ]
+      }
+    }
+  ],
   "variable_elements": [],
   "sound_elements": [],
   "tag_elements": {},
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "item.horizonrpmod.lily_plush": "Lily Plush"
+    }
   },
   "foldersRoot": {
     "name": "~",

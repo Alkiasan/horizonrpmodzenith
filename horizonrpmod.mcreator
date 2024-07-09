@@ -437,6 +437,32 @@
           "src/main/java/net/mcreator/horizonrpmod/potion/FatedMomentMobEffect.java"
         ]
       }
+    },
+    {
+      "name": "Voidessencerecipe",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "voidessencerecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/horizonrpmod/recipes/voidessencerecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Mortarrecipe",
+      "type": "recipe",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mortarrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/horizonrpmod/recipes/mortarrecipe.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],

@@ -54,6 +54,10 @@ public class HorizonrpmodModItems {
 	public static final RegistryObject<Item> SAKURALEAVES = block(HorizonrpmodModBlocks.SAKURALEAVES);
 	public static final RegistryObject<Item> VOID_FLOWER = block(HorizonrpmodModBlocks.VOID_FLOWER);
 	public static final RegistryObject<Item> BLUELILAC = doubleBlock(HorizonrpmodModBlocks.BLUELILAC);
+	public static final RegistryObject<Item> PLANTCORE = block(HorizonrpmodModBlocks.PLANTCORE);
+	public static final RegistryObject<Item> PLANTMATTER = block(HorizonrpmodModBlocks.PLANTMATTER);
+	public static final RegistryObject<Item> STATICVOID = block(HorizonrpmodModBlocks.STATICVOID);
+	public static final RegistryObject<Item> HARDENED_VOID = block(HorizonrpmodModBlocks.HARDENED_VOID);
 
 	// Start of user code block custom items
 	// End of user code block custom items

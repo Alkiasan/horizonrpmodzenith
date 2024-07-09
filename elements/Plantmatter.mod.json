@@ -2,22 +2,21 @@
   "_fv": 60,
   "_type": "block",
   "definition": {
-    "texture": "sakura_leaves",
-    "textureTop": "sakura_leaves",
-    "textureLeft": "sakura_leaves",
-    "textureFront": "sakura_leaves",
-    "textureRight": "sakura_leaves",
-    "textureBack": "sakura_leaves",
-    "renderType": 110,
-    "customModelName": "Single texture",
+    "texture": "plant_matter_c",
+    "textureTop": "plant_matter_c",
+    "textureLeft": "plant_matter_c",
+    "textureFront": "plant_matter_c",
+    "textureRight": "plant_matter_c",
+    "textureBack": "plant_matter_c",
+    "renderType": 10,
+    "customModelName": "Normal",
     "rotationMode": 0,
     "enablePitch": false,
     "emissiveRendering": false,
     "displayFluidOverlay": false,
     "itemTexture": "",
     "particleTexture": "",
-    "blockBase": "Leaves",
-    "tintType": "Foliage",
+    "tintType": "No tint",
     "isItemTinted": false,
     "hasTransparency": false,
     "connectedSides": false,
@@ -34,7 +33,7 @@
         "subtract": false
       }
     ],
-    "name": "Sakura Leaves",
+    "name": "Plant Matter",
     "specialInformation": {
       "fixedValue": []
     },
@@ -45,19 +44,19 @@
     "creativeTab": {
       "value": "CUSTOM:HorizonRP"
     },
-    "destroyTool": "hoe",
+    "destroyTool": "Not specified",
     "customDrop": {
       "value": ""
     },
     "dropAmount": 1,
     "useLootTableForDrops": false,
-    "requiresCorrectTool": true,
+    "requiresCorrectTool": false,
     "enchantPowerBonus": 0.0,
     "plantsGrowOn": false,
     "canRedstoneConnect": false,
-    "lightOpacity": 1,
+    "lightOpacity": 15,
     "material": {
-      "value": "LEAVES"
+      "value": "PLANTS"
     },
     "tickRate": 0,
     "tickRandomly": false,
@@ -66,7 +65,7 @@
     "emittedRedstonePower": {
       "fixedValue": 15.0
     },
-    "colorOnMap": "PINK",
+    "colorOnMap": "LIME",
     "creativePickItem": {
       "value": ""
     },
@@ -82,7 +81,7 @@
     "isNotColidable": false,
     "isCustomSoundType": false,
     "soundOnStep": {
-      "value": "CHERRY_LEAVES"
+      "value": "LILY_PADS"
     },
     "breakSound": {
       "value": ""

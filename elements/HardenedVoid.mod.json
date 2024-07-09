@@ -2,22 +2,21 @@
   "_fv": 60,
   "_type": "block",
   "definition": {
-    "texture": "sakura_leaves",
-    "textureTop": "sakura_leaves",
-    "textureLeft": "sakura_leaves",
-    "textureFront": "sakura_leaves",
-    "textureRight": "sakura_leaves",
-    "textureBack": "sakura_leaves",
-    "renderType": 110,
-    "customModelName": "Single texture",
+    "texture": "hardened_void",
+    "textureTop": "hardened_void",
+    "textureLeft": "hardened_void",
+    "textureFront": "hardened_void",
+    "textureRight": "hardened_void",
+    "textureBack": "hardened_void",
+    "renderType": 10,
+    "customModelName": "Normal",
     "rotationMode": 0,
     "enablePitch": false,
     "emissiveRendering": false,
     "displayFluidOverlay": false,
     "itemTexture": "",
     "particleTexture": "",
-    "blockBase": "Leaves",
-    "tintType": "Foliage",
+    "tintType": "No tint",
     "isItemTinted": false,
     "hasTransparency": false,
     "connectedSides": false,
@@ -34,30 +33,30 @@
         "subtract": false
       }
     ],
-    "name": "Sakura Leaves",
+    "name": "Hardened Void",
     "specialInformation": {
       "fixedValue": []
     },
-    "hardness": 1.0,
+    "hardness": 1.25,
     "resistance": 10.0,
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTab": {
       "value": "CUSTOM:HorizonRP"
     },
-    "destroyTool": "hoe",
+    "destroyTool": "pickaxe",
     "customDrop": {
-      "value": ""
+      "value": "CUSTOM:Voidchunk"
     },
-    "dropAmount": 1,
+    "dropAmount": 4,
     "useLootTableForDrops": false,
     "requiresCorrectTool": true,
     "enchantPowerBonus": 0.0,
     "plantsGrowOn": false,
     "canRedstoneConnect": false,
-    "lightOpacity": 1,
+    "lightOpacity": 15,
     "material": {
-      "value": "LEAVES"
+      "value": "ROCK"
     },
     "tickRate": 0,
     "tickRandomly": false,
@@ -66,7 +65,7 @@
     "emittedRedstonePower": {
       "fixedValue": 15.0
     },
-    "colorOnMap": "PINK",
+    "colorOnMap": "DEFAULT",
     "creativePickItem": {
       "value": ""
     },
@@ -82,7 +81,7 @@
     "isNotColidable": false,
     "isCustomSoundType": false,
     "soundOnStep": {
-      "value": "CHERRY_LEAVES"
+      "value": "SCULK_CATALYST"
     },
     "breakSound": {
       "value": ""
@@ -101,7 +100,7 @@
     },
     "luminance": 0,
     "unbreakable": false,
-    "breakHarvestLevel": 1,
+    "breakHarvestLevel": 2,
     "isBonemealable": false,
     "hasInventory": false,
     "guiBoundTo": "<NONE>",

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "horizonrpmod:block/static_void",
+    "up": "horizonrpmod:block/static_void",
+    "north": "horizonrpmod:block/static_void",
+    "east": "horizonrpmod:block/static_void",
+    "south": "horizonrpmod:block/static_void",
+    "west": "horizonrpmod:block/static_void",
+    "particle": "horizonrpmod:block/static_void"
+  },
+  "render_type": "solid"
+}

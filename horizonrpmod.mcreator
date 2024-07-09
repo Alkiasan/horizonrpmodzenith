@@ -463,6 +463,74 @@
           "src/main/resources/data/horizonrpmod/recipes/mortarrecipe.json"
         ]
       }
+    },
+    {
+      "name": "Plantcore",
+      "type": "block",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "plantcore",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/horizonrpmod/block/PlantcoreBlock.java",
+          "src/main/resources/data/horizonrpmod/loot_tables/blocks/plantcore.json",
+          "src/main/resources/assets/horizonrpmod/models/block/plantcore.json",
+          "src/main/resources/assets/horizonrpmod/models/item/plantcore.json",
+          "src/main/resources/assets/horizonrpmod/blockstates/plantcore.json"
+        ]
+      }
+    },
+    {
+      "name": "Plantmatter",
+      "type": "block",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "plantmatter",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/horizonrpmod/blockstates/plantmatter.json",
+          "src/main/resources/data/horizonrpmod/loot_tables/blocks/plantmatter.json",
+          "src/main/resources/assets/horizonrpmod/models/block/plantmatter.json",
+          "src/main/java/net/mcreator/horizonrpmod/block/PlantmatterBlock.java",
+          "src/main/resources/assets/horizonrpmod/models/item/plantmatter.json"
+        ]
+      }
+    },
+    {
+      "name": "Staticvoid",
+      "type": "block",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "staticvoid",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/horizonrpmod/blockstates/staticvoid.json",
+          "src/main/java/net/mcreator/horizonrpmod/block/StaticvoidBlock.java",
+          "src/main/resources/assets/horizonrpmod/models/item/staticvoid.json",
+          "src/main/resources/data/horizonrpmod/loot_tables/blocks/staticvoid.json",
+          "src/main/resources/assets/horizonrpmod/models/block/staticvoid.json"
+        ]
+      }
+    },
+    {
+      "name": "HardenedVoid",
+      "type": "block",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hardened_void",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/horizonrpmod/models/item/hardened_void.json",
+          "src/main/resources/data/horizonrpmod/loot_tables/blocks/hardened_void.json",
+          "src/main/resources/assets/horizonrpmod/blockstates/hardened_void.json",
+          "src/main/resources/assets/horizonrpmod/models/block/hardened_void.json",
+          "src/main/java/net/mcreator/horizonrpmod/block/HardenedVoidBlock.java"
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -474,8 +542,14 @@
     "BLOCKS:minecraft:replaceable": [
       "~CUSTOM:VoidFlower"
     ],
+    "BLOCKS:minecraft:needs_iron_tool": [
+      "~CUSTOM:HardenedVoid"
+    ],
     "BLOCKS:minecraft:mineable/hoe": [
       "~CUSTOM:Sakuraleaves"
+    ],
+    "BLOCKS:minecraft:mineable/pickaxe": [
+      "~CUSTOM:HardenedVoid"
     ],
     "BLOCKS:minecraft:needs_stone_tool": [
       "~CUSTOM:Sakuraleaves"
@@ -486,17 +560,9 @@
       "item.horizonrpmod.voidessence": "Void Essence",
       "item.horizonrpmod.lilyplush": "Lily Plush",
       "item.horizonrpmod.mortarandpestle": "Mortar and Pestle",
-      "item.horizonrpmod.voidchunk": "Void Chunk",
-      "item.horizonrpmod.amulet": "Amulet",
-      "block.horizonrpmod.sakuraleaves": "Sakura Leaves",
-      "item.horizonrpmod.notepad": "Notepad",
-      "effect.horizonrpmod.ember_detonation": "Blooming Ember",
-      "item.horizonrpmod.okane": "Okane",
-      "item.horizonrpmod.denari": "Denari",
+      "block.horizonrpmod.plantcore": "Plant Core",
+      "block.horizonrpmod.staticvoid": "Static Void",
       "block.horizonrpmod.bluelilac": "Blue Lilac",
-      "item.horizonrpmod.usbstick": "Usb Stick",
-      "item.horizonrpmod.floppydisk": "Floppy Disk",
-      "item.horizonrpmod.voidtendril": "Void Tendril",
       "effect.horizonrpmod.fated_moment": "Fated Moment",
       "item.horizonrpmod.ri": "Ri",
       "item.horizonrpmod.crown": "Crown",
@@ -504,8 +570,20 @@
       "item_group.horizonrpmod.horizon_rp": "Horizon RP",
       "item.horizonrpmod.pearlshard": "Pearl Shard",
       "item.horizonrpmod.keycard": "Keycard",
-      "block.horizonrpmod.void_flower": "Void Flower",
-      "item.horizonrpmod.wornnotepad": "Worn Notepad"
+      "item.horizonrpmod.wornnotepad": "Worn Notepad",
+      "block.horizonrpmod.plantmatter": "Plant Matter",
+      "item.horizonrpmod.voidchunk": "Void Chunk",
+      "item.horizonrpmod.amulet": "Amulet",
+      "block.horizonrpmod.sakuraleaves": "Sakura Leaves",
+      "item.horizonrpmod.notepad": "Notepad",
+      "effect.horizonrpmod.ember_detonation": "Blooming Ember",
+      "block.horizonrpmod.hardened_void": "Hardened Void",
+      "item.horizonrpmod.okane": "Okane",
+      "item.horizonrpmod.denari": "Denari",
+      "item.horizonrpmod.usbstick": "Usb Stick",
+      "item.horizonrpmod.voidtendril": "Void Tendril",
+      "item.horizonrpmod.floppydisk": "Floppy Disk",
+      "block.horizonrpmod.void_flower": "Void Flower"
     }
   },
   "foldersRoot": {

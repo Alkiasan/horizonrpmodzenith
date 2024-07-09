@@ -38,6 +38,10 @@ public class HorizonrpmodModTabs {
 				tabData.accept(HorizonrpmodModBlocks.SAKURALEAVES.get().asItem());
 				tabData.accept(HorizonrpmodModBlocks.VOID_FLOWER.get().asItem());
 				tabData.accept(HorizonrpmodModBlocks.BLUELILAC.get().asItem());
+				tabData.accept(HorizonrpmodModBlocks.PLANTCORE.get().asItem());
+				tabData.accept(HorizonrpmodModBlocks.PLANTMATTER.get().asItem());
+				tabData.accept(HorizonrpmodModBlocks.STATICVOID.get().asItem());
+				tabData.accept(HorizonrpmodModBlocks.HARDENED_VOID.get().asItem());
 			})
 
 					.build());

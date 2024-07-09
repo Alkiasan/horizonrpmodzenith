@@ -12,6 +12,58 @@
           "src/main/java/net/mcreator/horizonrpmod/item/LilyPlushItem.java"
         ]
       }
+    },
+    {
+      "name": "Denari",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "denari",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/horizonrpmod/item/DenariItem.java",
+          "src/main/resources/assets/horizonrpmod/models/item/denari.json"
+        ]
+      }
+    },
+    {
+      "name": "Okane",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "okane",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/horizonrpmod/models/item/okane.json",
+          "src/main/java/net/mcreator/horizonrpmod/item/OkaneItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Ri",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ri",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/horizonrpmod/models/item/ri.json",
+          "src/main/java/net/mcreator/horizonrpmod/item/RiItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Crown",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crown",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/horizonrpmod/models/item/crown.json",
+          "src/main/java/net/mcreator/horizonrpmod/item/CrownItem.java"
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -19,7 +71,11 @@
   "tag_elements": {},
   "language_map": {
     "en_us": {
-      "item.horizonrpmod.lilyplush": "Lily Plush"
+      "item.horizonrpmod.denari": "Denari",
+      "item.horizonrpmod.lilyplush": "Lily Plush",
+      "item.horizonrpmod.ri": "Ri",
+      "item.horizonrpmod.crown": "Crown",
+      "item.horizonrpmod.okane": "Okane"
     }
   },
   "foldersRoot": {

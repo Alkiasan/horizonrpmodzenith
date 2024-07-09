@@ -3,11 +3,11 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "lily",
+    "texture": "pearl_shard",
     "customModelName": "Normal",
     "customProperties": {},
     "states": [],
-    "name": "Lily Plush",
+    "name": "Pearlshard",
     "rarity": "COMMON",
     "creativeTab": {
       "value": "CUSTOM:HorizonRP"

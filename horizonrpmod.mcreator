@@ -108,6 +108,104 @@
       "metadata": {
         "files": []
       }
+    },
+    {
+      "name": "Mortarandpestle",
+      "type": "item",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mortarandpestle",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/horizonrpmod/item/MortarandpestleItem.java",
+          "src/main/resources/assets/horizonrpmod/models/item/mortarandpestle.json"
+        ]
+      }
+    },
+    {
+      "name": "Usbstick",
+      "type": "item",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "usbstick",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/horizonrpmod/models/item/usbstick.json",
+          "src/main/java/net/mcreator/horizonrpmod/item/UsbstickItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Pearl",
+      "type": "item",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pearl",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/horizonrpmod/item/PearlItem.java",
+          "src/main/resources/assets/horizonrpmod/models/item/pearl.json"
+        ]
+      }
+    },
+    {
+      "name": "Pearlshard",
+      "type": "item",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pearlshard",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/horizonrpmod/models/item/pearlshard.json",
+          "src/main/java/net/mcreator/horizonrpmod/item/PearlshardItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Notepad",
+      "type": "item",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "notepad",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/horizonrpmod/models/item/notepad.json",
+          "src/main/java/net/mcreator/horizonrpmod/item/NotepadItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Wornnotepad",
+      "type": "item",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wornnotepad",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/horizonrpmod/item/WornnotepadItem.java",
+          "src/main/resources/assets/horizonrpmod/models/item/wornnotepad.json"
+        ]
+      }
+    },
+    {
+      "name": "Amulet",
+      "type": "item",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amulet",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/horizonrpmod/models/item/amulet.json",
+          "src/main/java/net/mcreator/horizonrpmod/item/AmuletItem.java"
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -115,14 +213,21 @@
   "tag_elements": {},
   "language_map": {
     "en_us": {
-      "item.horizonrpmod.denari": "Denari",
       "item.horizonrpmod.lilyplush": "Lily Plush",
+      "item.horizonrpmod.mortarandpestle": "Mortarandpestle",
+      "item.horizonrpmod.amulet": "Amulet",
+      "item.horizonrpmod.notepad": "Notepad",
+      "item.horizonrpmod.okane": "Okane",
+      "item.horizonrpmod.denari": "Denari",
+      "item.horizonrpmod.usbstick": "Usbstick",
       "item.horizonrpmod.floppydisk": "Floppydisk",
       "item.horizonrpmod.ri": "Ri",
       "item.horizonrpmod.crown": "Crown",
+      "item.horizonrpmod.pearl": "Pearl",
       "item_group.horizonrpmod.horizon_rp": "Horizon RP",
+      "item.horizonrpmod.pearlshard": "Pearlshard",
       "item.horizonrpmod.keycard": "Keycard",
-      "item.horizonrpmod.okane": "Okane"
+      "item.horizonrpmod.wornnotepad": "Wornnotepad"
     }
   },
   "foldersRoot": {

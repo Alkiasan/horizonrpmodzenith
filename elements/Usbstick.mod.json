@@ -3,11 +3,11 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "lily",
+    "texture": "usb",
     "customModelName": "Normal",
     "customProperties": {},
     "states": [],
-    "name": "Lily Plush",
+    "name": "Usbstick",
     "rarity": "COMMON",
     "creativeTab": {
       "value": "CUSTOM:HorizonRP"

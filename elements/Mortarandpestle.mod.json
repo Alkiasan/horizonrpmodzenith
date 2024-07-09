@@ -3,11 +3,11 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "lily",
+    "texture": "mortar_and_pestle",
     "customModelName": "Normal",
     "customProperties": {},
     "states": [],
-    "name": "Lily Plush",
+    "name": "Mortarandpestle",
     "rarity": "COMMON",
     "creativeTab": {
       "value": "CUSTOM:HorizonRP"

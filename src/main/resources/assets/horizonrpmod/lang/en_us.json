@@ -1,10 +1,17 @@
 {
-  "item.horizonrpmod.denari": "Denari",
   "item.horizonrpmod.lilyplush": "Lily Plush",
+  "item.horizonrpmod.mortarandpestle": "Mortarandpestle",
+  "item.horizonrpmod.amulet": "Amulet",
+  "item.horizonrpmod.notepad": "Notepad",
+  "item.horizonrpmod.okane": "Okane",
+  "item.horizonrpmod.denari": "Denari",
+  "item.horizonrpmod.usbstick": "Usbstick",
   "item.horizonrpmod.floppydisk": "Floppydisk",
   "item.horizonrpmod.ri": "Ri",
   "item.horizonrpmod.crown": "Crown",
+  "item.horizonrpmod.pearl": "Pearl",
   "item_group.horizonrpmod.horizon_rp": "Horizon RP",
+  "item.horizonrpmod.pearlshard": "Pearlshard",
   "item.horizonrpmod.keycard": "Keycard",
-  "item.horizonrpmod.okane": "Okane"
+  "item.horizonrpmod.wornnotepad": "Wornnotepad"
 }

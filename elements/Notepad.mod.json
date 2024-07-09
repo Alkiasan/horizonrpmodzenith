@@ -3,11 +3,11 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "lily",
+    "texture": "notepad",
     "customModelName": "Normal",
     "customProperties": {},
     "states": [],
-    "name": "Lily Plush",
+    "name": "Notepad",
     "rarity": "COMMON",
     "creativeTab": {
       "value": "CUSTOM:HorizonRP"

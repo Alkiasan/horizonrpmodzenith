@@ -25,6 +25,13 @@ public class HorizonrpmodModTabs {
 				tabData.accept(HorizonrpmodModItems.CROWN.get());
 				tabData.accept(HorizonrpmodModItems.KEYCARD.get());
 				tabData.accept(HorizonrpmodModItems.FLOPPYDISK.get());
+				tabData.accept(HorizonrpmodModItems.MORTARANDPESTLE.get());
+				tabData.accept(HorizonrpmodModItems.USBSTICK.get());
+				tabData.accept(HorizonrpmodModItems.PEARL.get());
+				tabData.accept(HorizonrpmodModItems.PEARLSHARD.get());
+				tabData.accept(HorizonrpmodModItems.NOTEPAD.get());
+				tabData.accept(HorizonrpmodModItems.WORNNOTEPAD.get());
+				tabData.accept(HorizonrpmodModItems.AMULET.get());
 			})
 
 					.build());

@@ -1,0 +1,24 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Thirty Minutes - Crimsonia",
+    "rarity": "EPIC",
+    "texture": "music_disc_mb",
+    "description": "Thirty Minutes - Season 1",
+    "creativeTab": {
+      "value": "CUSTOM:HorizonRP"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:thirtyminutes"
+    },
+    "lengthInTicks": 10000,
+    "analogOutput": 0
+  }
+}

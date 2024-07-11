@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "horizonrpmod:block/explosivevoid",
+    "particle": "horizonrpmod:block/explosivevoid"
+  },
+  "render_type": "solid"
+}

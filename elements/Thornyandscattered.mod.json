@@ -1,0 +1,24 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Thorny and Scattered",
+    "rarity": "EPIC",
+    "texture": "thornyandscattered",
+    "description": "Thorny and Scattered - Season 2",
+    "creativeTab": {
+      "value": "CUSTOM:HorizonRP"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:thornyandscattered"
+    },
+    "lengthInTicks": 10000,
+    "analogOutput": 0
+  }
+}

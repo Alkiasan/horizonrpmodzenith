@@ -1,0 +1,24 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Tying the String - Chimera",
+    "rarity": "EPIC",
+    "texture": "bapbapbap_disc_mb",
+    "description": "Tying the String - Season 1",
+    "creativeTab": {
+      "value": "CUSTOM:HorizonRP"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:tyingstrings"
+    },
+    "lengthInTicks": 10000,
+    "analogOutput": 0
+  }
+}

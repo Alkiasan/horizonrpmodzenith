@@ -1,0 +1,24 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "What We Became - Chimera",
+    "rarity": "EPIC",
+    "texture": "0110100001100101011011000110110001101111_disc_mb",
+    "description": "What We Became - Season 1",
+    "creativeTab": {
+      "value": "CUSTOM:HorizonRP"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:whatwebecame"
+    },
+    "lengthInTicks": 10000,
+    "analogOutput": 0
+  }
+}

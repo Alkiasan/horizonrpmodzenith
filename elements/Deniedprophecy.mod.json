@@ -1,0 +1,24 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Denied Prophecy - Blumiere",
+    "rarity": "EPIC",
+    "texture": "music_disc_ll",
+    "description": "Denied Prophecy - Season 1",
+    "creativeTab": {
+      "value": "CUSTOM:HorizonRP"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:deniedprophecy"
+    },
+    "lengthInTicks": 10000,
+    "analogOutput": 0
+  }
+}

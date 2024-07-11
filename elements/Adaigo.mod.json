@@ -1,0 +1,24 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Adaigo for my Blackbird",
+    "rarity": "EPIC",
+    "texture": "music_disc_abandoned",
+    "description": "Adaigo for my Blackbird - Commission Disc",
+    "creativeTab": {
+      "value": "CUSTOM:HorizonRP"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:adaigo"
+    },
+    "lengthInTicks": 10000,
+    "analogOutput": 0
+  }
+}

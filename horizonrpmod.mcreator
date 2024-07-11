@@ -9,8 +9,8 @@
       "registry_name": "lilyplush",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/horizonrpmod/item/LilyPlushItem.java",
-          "src/main/resources/assets/horizonrpmod/models/item/lilyplush.json"
+          "src/main/resources/assets/horizonrpmod/models/item/lilyplush.json",
+          "src/main/java/net/mcreator/horizonrpmod/item/LilyPlushItem.java"
         ]
       }
     },
@@ -23,8 +23,8 @@
       "registry_name": "denari",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/horizonrpmod/item/DenariItem.java",
-          "src/main/resources/assets/horizonrpmod/models/item/denari.json"
+          "src/main/resources/assets/horizonrpmod/models/item/denari.json",
+          "src/main/java/net/mcreator/horizonrpmod/item/DenariItem.java"
         ]
       }
     },
@@ -37,8 +37,8 @@
       "registry_name": "okane",
       "metadata": {
         "files": [
-          "src/main/resources/assets/horizonrpmod/models/item/okane.json",
-          "src/main/java/net/mcreator/horizonrpmod/item/OkaneItem.java"
+          "src/main/java/net/mcreator/horizonrpmod/item/OkaneItem.java",
+          "src/main/resources/assets/horizonrpmod/models/item/okane.json"
         ]
       }
     },
@@ -51,8 +51,8 @@
       "registry_name": "ri",
       "metadata": {
         "files": [
-          "src/main/resources/assets/horizonrpmod/models/item/ri.json",
-          "src/main/java/net/mcreator/horizonrpmod/item/RiItem.java"
+          "src/main/java/net/mcreator/horizonrpmod/item/RiItem.java",
+          "src/main/resources/assets/horizonrpmod/models/item/ri.json"
         ]
       }
     },
@@ -79,8 +79,8 @@
       "registry_name": "keycard",
       "metadata": {
         "files": [
-          "src/main/resources/assets/horizonrpmod/models/item/keycard.json",
-          "src/main/java/net/mcreator/horizonrpmod/item/KeycardItem.java"
+          "src/main/java/net/mcreator/horizonrpmod/item/KeycardItem.java",
+          "src/main/resources/assets/horizonrpmod/models/item/keycard.json"
         ]
       }
     },
@@ -93,8 +93,8 @@
       "registry_name": "floppydisk",
       "metadata": {
         "files": [
-          "src/main/resources/assets/horizonrpmod/models/item/floppydisk.json",
-          "src/main/java/net/mcreator/horizonrpmod/item/FloppydiskItem.java"
+          "src/main/java/net/mcreator/horizonrpmod/item/FloppydiskItem.java",
+          "src/main/resources/assets/horizonrpmod/models/item/floppydisk.json"
         ]
       }
     },
@@ -132,8 +132,8 @@
       "registry_name": "usbstick",
       "metadata": {
         "files": [
-          "src/main/resources/assets/horizonrpmod/models/item/usbstick.json",
-          "src/main/java/net/mcreator/horizonrpmod/item/UsbstickItem.java"
+          "src/main/java/net/mcreator/horizonrpmod/item/UsbstickItem.java",
+          "src/main/resources/assets/horizonrpmod/models/item/usbstick.json"
         ]
       }
     },
@@ -146,8 +146,8 @@
       "registry_name": "pearl",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/horizonrpmod/item/PearlItem.java",
-          "src/main/resources/assets/horizonrpmod/models/item/pearl.json"
+          "src/main/resources/assets/horizonrpmod/models/item/pearl.json",
+          "src/main/java/net/mcreator/horizonrpmod/item/PearlItem.java"
         ]
       }
     },
@@ -188,8 +188,8 @@
       "registry_name": "wornnotepad",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/horizonrpmod/item/WornnotepadItem.java",
-          "src/main/resources/assets/horizonrpmod/models/item/wornnotepad.json"
+          "src/main/resources/assets/horizonrpmod/models/item/wornnotepad.json",
+          "src/main/java/net/mcreator/horizonrpmod/item/WornnotepadItem.java"
         ]
       }
     },
@@ -235,8 +235,8 @@
       "registry_name": "voidessence",
       "metadata": {
         "files": [
-          "src/main/resources/assets/horizonrpmod/models/item/voidessence.json",
-          "src/main/java/net/mcreator/horizonrpmod/item/VoidessenceItem.java"
+          "src/main/java/net/mcreator/horizonrpmod/item/VoidessenceItem.java",
+          "src/main/resources/assets/horizonrpmod/models/item/voidessence.json"
         ]
       }
     },
@@ -263,8 +263,8 @@
       "registry_name": "voidchunk",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/horizonrpmod/item/VoidchunkItem.java",
-          "src/main/resources/assets/horizonrpmod/models/item/voidchunk.json"
+          "src/main/resources/assets/horizonrpmod/models/item/voidchunk.json",
+          "src/main/java/net/mcreator/horizonrpmod/item/VoidchunkItem.java"
         ]
       }
     },
@@ -277,11 +277,11 @@
       "registry_name": "sakuraleaves",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/horizonrpmod/block/SakuraleavesBlock.java",
-          "src/main/resources/assets/horizonrpmod/models/item/sakuraleaves.json",
-          "src/main/resources/data/horizonrpmod/loot_tables/blocks/sakuraleaves.json",
           "src/main/resources/assets/horizonrpmod/blockstates/sakuraleaves.json",
-          "src/main/resources/assets/horizonrpmod/models/block/sakuraleaves.json"
+          "src/main/resources/assets/horizonrpmod/models/block/sakuraleaves.json",
+          "src/main/resources/data/horizonrpmod/loot_tables/blocks/sakuraleaves.json",
+          "src/main/java/net/mcreator/horizonrpmod/block/SakuraleavesBlock.java",
+          "src/main/resources/assets/horizonrpmod/models/item/sakuraleaves.json"
         ]
       }
     },
@@ -294,11 +294,11 @@
       "registry_name": "void_flower",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/horizonrpmod/block/VoidFlowerBlock.java",
           "src/main/resources/assets/horizonrpmod/models/item/void_flower.json",
           "src/main/resources/assets/horizonrpmod/blockstates/void_flower.json",
+          "src/main/resources/assets/horizonrpmod/models/block/void_flower.json",
           "src/main/resources/data/horizonrpmod/loot_tables/blocks/void_flower.json",
-          "src/main/resources/assets/horizonrpmod/models/block/void_flower.json"
+          "src/main/java/net/mcreator/horizonrpmod/block/VoidFlowerBlock.java"
         ]
       }
     },
@@ -311,12 +311,12 @@
       "registry_name": "bluelilac",
       "metadata": {
         "files": [
-          "src/main/resources/data/horizonrpmod/loot_tables/blocks/bluelilac.json",
-          "src/main/resources/assets/horizonrpmod/models/item/bluelilac.json",
-          "src/main/resources/assets/horizonrpmod/models/block/bluelilac.json",
+          "src/main/resources/assets/horizonrpmod/blockstates/bluelilac.json",
           "src/main/java/net/mcreator/horizonrpmod/block/BluelilacBlock.java",
+          "src/main/resources/assets/horizonrpmod/models/block/bluelilac.json",
           "src/main/resources/assets/horizonrpmod/models/block/bluelilac_bottom.json",
-          "src/main/resources/assets/horizonrpmod/blockstates/bluelilac.json"
+          "src/main/resources/data/horizonrpmod/loot_tables/blocks/bluelilac.json",
+          "src/main/resources/assets/horizonrpmod/models/item/bluelilac.json"
         ]
       }
     },
@@ -473,11 +473,11 @@
       "registry_name": "plantcore",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/horizonrpmod/block/PlantcoreBlock.java",
-          "src/main/resources/data/horizonrpmod/loot_tables/blocks/plantcore.json",
           "src/main/resources/assets/horizonrpmod/models/block/plantcore.json",
+          "src/main/resources/assets/horizonrpmod/blockstates/plantcore.json",
           "src/main/resources/assets/horizonrpmod/models/item/plantcore.json",
-          "src/main/resources/assets/horizonrpmod/blockstates/plantcore.json"
+          "src/main/java/net/mcreator/horizonrpmod/block/PlantcoreBlock.java",
+          "src/main/resources/data/horizonrpmod/loot_tables/blocks/plantcore.json"
         ]
       }
     },
@@ -490,11 +490,11 @@
       "registry_name": "plantmatter",
       "metadata": {
         "files": [
-          "src/main/resources/assets/horizonrpmod/blockstates/plantmatter.json",
-          "src/main/resources/data/horizonrpmod/loot_tables/blocks/plantmatter.json",
           "src/main/resources/assets/horizonrpmod/models/block/plantmatter.json",
+          "src/main/resources/assets/horizonrpmod/blockstates/plantmatter.json",
+          "src/main/resources/assets/horizonrpmod/models/item/plantmatter.json",
           "src/main/java/net/mcreator/horizonrpmod/block/PlantmatterBlock.java",
-          "src/main/resources/assets/horizonrpmod/models/item/plantmatter.json"
+          "src/main/resources/data/horizonrpmod/loot_tables/blocks/plantmatter.json"
         ]
       }
     },
@@ -508,10 +508,10 @@
       "metadata": {
         "files": [
           "src/main/resources/assets/horizonrpmod/blockstates/staticvoid.json",
+          "src/main/resources/assets/horizonrpmod/models/block/staticvoid.json",
           "src/main/java/net/mcreator/horizonrpmod/block/StaticvoidBlock.java",
-          "src/main/resources/assets/horizonrpmod/models/item/staticvoid.json",
           "src/main/resources/data/horizonrpmod/loot_tables/blocks/staticvoid.json",
-          "src/main/resources/assets/horizonrpmod/models/block/staticvoid.json"
+          "src/main/resources/assets/horizonrpmod/models/item/staticvoid.json"
         ]
       }
     },
@@ -524,17 +524,776 @@
       "registry_name": "hardened_void",
       "metadata": {
         "files": [
-          "src/main/resources/assets/horizonrpmod/models/item/hardened_void.json",
-          "src/main/resources/data/horizonrpmod/loot_tables/blocks/hardened_void.json",
-          "src/main/resources/assets/horizonrpmod/blockstates/hardened_void.json",
           "src/main/resources/assets/horizonrpmod/models/block/hardened_void.json",
-          "src/main/java/net/mcreator/horizonrpmod/block/HardenedVoidBlock.java"
+          "src/main/java/net/mcreator/horizonrpmod/block/HardenedVoidBlock.java",
+          "src/main/resources/assets/horizonrpmod/models/item/hardened_void.json",
+          "src/main/resources/assets/horizonrpmod/blockstates/hardened_void.json",
+          "src/main/resources/data/horizonrpmod/loot_tables/blocks/hardened_void.json"
+        ]
+      }
+    },
+    {
+      "name": "Musicboxcardinal",
+      "type": "musicdisc",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "musicboxcardinal",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/horizonrpmod/item/MusicboxcardinalItem.java",
+          "src/main/resources/assets/horizonrpmod/models/item/musicboxcardinal.json"
+        ]
+      }
+    },
+    {
+      "name": "Musicboxowen",
+      "type": "musicdisc",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "musicboxowen",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/horizonrpmod/item/MusicboxowenItem.java",
+          "src/main/resources/assets/horizonrpmod/models/item/musicboxowen.json"
+        ]
+      }
+    },
+    {
+      "name": "Treesmelody",
+      "type": "musicdisc",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "treesmelody",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/horizonrpmod/item/TreesmelodyItem.java",
+          "src/main/resources/assets/horizonrpmod/models/item/treesmelody.json"
+        ]
+      }
+    },
+    {
+      "name": "Mothersmelody",
+      "type": "musicdisc",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mothersmelody",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/horizonrpmod/models/item/mothersmelody.json",
+          "src/main/java/net/mcreator/horizonrpmod/item/MothersmelodyItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Leftbehind",
+      "type": "musicdisc",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "leftbehind",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/horizonrpmod/item/LeftbehindItem.java",
+          "src/main/resources/assets/horizonrpmod/models/item/leftbehind.json"
+        ]
+      }
+    },
+    {
+      "name": "Crimson",
+      "type": "musicdisc",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crimson",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/horizonrpmod/item/CrimsonItem.java",
+          "src/main/resources/assets/horizonrpmod/models/item/crimson.json"
+        ]
+      }
+    },
+    {
+      "name": "Thirtyminutes",
+      "type": "musicdisc",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "thirtyminutes",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/horizonrpmod/models/item/thirtyminutes.json",
+          "src/main/java/net/mcreator/horizonrpmod/item/ThirtyminutesItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Library",
+      "type": "musicdisc",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "library",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/horizonrpmod/models/item/library.json",
+          "src/main/java/net/mcreator/horizonrpmod/item/LibraryItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Scarlet",
+      "type": "musicdisc",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "scarlet",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/horizonrpmod/models/item/scarlet.json",
+          "src/main/java/net/mcreator/horizonrpmod/item/ScarletItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Scarlet2",
+      "type": "musicdisc",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "scarlet_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/horizonrpmod/models/item/scarlet_2.json",
+          "src/main/java/net/mcreator/horizonrpmod/item/Scarlet2Item.java"
+        ]
+      }
+    },
+    {
+      "name": "Scarletmusicbox",
+      "type": "musicdisc",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "scarletmusicbox",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/horizonrpmod/item/ScarletmusicboxItem.java",
+          "src/main/resources/assets/horizonrpmod/models/item/scarletmusicbox.json"
+        ]
+      }
+    },
+    {
+      "name": "Cardinalbattle",
+      "type": "musicdisc",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cardinalbattle",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/horizonrpmod/item/CardinalbattleItem.java",
+          "src/main/resources/assets/horizonrpmod/models/item/cardinalbattle.json"
+        ]
+      }
+    },
+    {
+      "name": "Princeoffate",
+      "type": "musicdisc",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "princeoffate",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/horizonrpmod/models/item/princeoffate.json",
+          "src/main/java/net/mcreator/horizonrpmod/item/PrinceoffateItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Tyingthestring",
+      "type": "musicdisc",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tyingthestring",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/horizonrpmod/item/TyingthestringItem.java",
+          "src/main/resources/assets/horizonrpmod/models/item/tyingthestring.json"
+        ]
+      }
+    },
+    {
+      "name": "Deniedprophecy",
+      "type": "musicdisc",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deniedprophecy",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/horizonrpmod/item/DeniedprophecyItem.java",
+          "src/main/resources/assets/horizonrpmod/models/item/deniedprophecy.json"
+        ]
+      }
+    },
+    {
+      "name": "Ladyofprophecy",
+      "type": "musicdisc",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ladyofprophecy",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/horizonrpmod/item/LadyofprophecyItem.java",
+          "src/main/resources/assets/horizonrpmod/models/item/ladyofprophecy.json"
+        ]
+      }
+    },
+    {
+      "name": "Whatwebecame",
+      "type": "musicdisc",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "whatwebecame",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/horizonrpmod/item/WhatwebecameItem.java",
+          "src/main/resources/assets/horizonrpmod/models/item/whatwebecame.json"
+        ]
+      }
+    },
+    {
+      "name": "Festival",
+      "type": "musicdisc",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "festival",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/horizonrpmod/models/item/festival.json",
+          "src/main/java/net/mcreator/horizonrpmod/item/FestivalItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Lilymemory",
+      "type": "musicdisc",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lilymemory",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/horizonrpmod/item/LilymemoryItem.java",
+          "src/main/resources/assets/horizonrpmod/models/item/lilymemory.json"
+        ]
+      }
+    },
+    {
+      "name": "Thornyandscattered",
+      "type": "musicdisc",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "thornyandscattered",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/horizonrpmod/item/ThornyandscatteredItem.java",
+          "src/main/resources/assets/horizonrpmod/models/item/thornyandscattered.json"
+        ]
+      }
+    },
+    {
+      "name": "Warriorofthelost",
+      "type": "musicdisc",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "warriorofthelost",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/horizonrpmod/models/item/warriorofthelost.json",
+          "src/main/java/net/mcreator/horizonrpmod/item/WarriorofthelostItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Adaigo",
+      "type": "musicdisc",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "adaigo",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/horizonrpmod/models/item/adaigo.json",
+          "src/main/java/net/mcreator/horizonrpmod/item/AdaigoItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Waves",
+      "type": "musicdisc",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "waves",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/horizonrpmod/item/WavesItem.java",
+          "src/main/resources/assets/horizonrpmod/models/item/waves.json"
+        ]
+      }
+    },
+    {
+      "name": "Flow",
+      "type": "musicdisc",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "flow",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/horizonrpmod/item/FlowItem.java",
+          "src/main/resources/assets/horizonrpmod/models/item/flow.json"
+        ]
+      }
+    },
+    {
+      "name": "NectarEntityCollidesInTheBlock",
+      "type": "procedure",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nectar_entity_collides_in_the_block",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/horizonrpmod/procedures/NectarEntityCollidesInTheBlockProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Nectar",
+      "type": "block",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nectar",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/horizonrpmod/loot_tables/blocks/nectar.json",
+          "src/main/java/net/mcreator/horizonrpmod/block/NectarBlock.java",
+          "src/main/resources/assets/horizonrpmod/blockstates/nectar.json",
+          "src/main/resources/assets/horizonrpmod/models/block/nectar.json",
+          "src/main/resources/assets/horizonrpmod/models/item/nectar.json"
+        ]
+      }
+    },
+    {
+      "name": "Voidblock",
+      "type": "block",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "voidblock",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/horizonrpmod/blockstates/voidblock.json",
+          "src/main/resources/data/horizonrpmod/loot_tables/blocks/voidblock.json",
+          "src/main/resources/assets/horizonrpmod/models/item/voidblock.json",
+          "src/main/resources/assets/horizonrpmod/models/block/voidblock.json",
+          "src/main/java/net/mcreator/horizonrpmod/block/VoidblockBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "Explosivevoid",
+      "type": "block",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "explosivevoid",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/horizonrpmod/models/item/explosivevoid.json",
+          "src/main/resources/data/horizonrpmod/loot_tables/blocks/explosivevoid.json",
+          "src/main/resources/assets/horizonrpmod/blockstates/explosivevoid.json",
+          "src/main/resources/assets/horizonrpmod/models/block/explosivevoid.json",
+          "src/main/java/net/mcreator/horizonrpmod/block/ExplosivevoidBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "ExplosivevoidBlockDestroyedByPlayer",
+      "type": "procedure",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "explosivevoid_block_destroyed_by_player",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/horizonrpmod/procedures/ExplosivevoidBlockDestroyedByPlayerProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ExplosivevoidBlockDestroyedByExplosion",
+      "type": "procedure",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "explosivevoid_block_destroyed_by_explosion",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/horizonrpmod/procedures/ExplosivevoidBlockDestroyedByExplosionProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Crystalizedvoid",
+      "type": "block",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crystalizedvoid",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/horizonrpmod/models/item/crystalizedvoid.json",
+          "src/main/resources/data/horizonrpmod/loot_tables/blocks/crystalizedvoid.json",
+          "src/main/resources/assets/horizonrpmod/blockstates/crystalizedvoid.json",
+          "src/main/resources/assets/horizonrpmod/models/block/crystalizedvoid.json",
+          "src/main/java/net/mcreator/horizonrpmod/block/CrystalizedvoidBlock.java"
         ]
       }
     }
   ],
   "variable_elements": [],
-  "sound_elements": [],
+  "sound_elements": [
+    {
+      "name": "abandonedblade",
+      "files": [
+        "abandonedblade"
+      ],
+      "category": "record",
+      "subtitle": "Abandoned Blade"
+    },
+    {
+      "name": "cardinalbox",
+      "files": [
+        "lockedlibrarymusicbox"
+      ],
+      "category": "record",
+      "subtitle": "Cardinal - Music box"
+    },
+    {
+      "name": "crimsonbox",
+      "files": [
+        "music_box"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "treesmelody",
+      "files": [
+        "treesmelody"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "mothersmelody",
+      "files": [
+        "mothermelodyv2"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "leftbehind",
+      "files": [
+        "leftbehind"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "crimson",
+      "files": [
+        "crimson"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "thirtyminutes",
+      "files": [
+        "crimson-_the_final_30_minutes"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "library",
+      "files": [
+        "library"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "scarlet",
+      "files": [
+        "scarlet"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "scarlet2",
+      "files": [
+        "septet_for_the_dead_princess_touhou_koumakyou___the_embodiment_of_scarlet_devil._music_box",
+        "septette_for_the_dead_princess_-_remilia_scarlets_theme_orchestral_version_1"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "scarletmusicbox",
+      "files": [
+        "septet_for_the_dead_princess_touhou_koumakyou___the_embodiment_of_scarlet_devil._music_box"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "fragmentoffairytale",
+      "files": [
+        "keyword_-_fragment_of_the_fairytale"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "princeoffate",
+      "files": [
+        "chimera_-_prince_of_fate"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "tyingstrings",
+      "files": [
+        "chimera_-_tying_the_string"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "deniedprophecy",
+      "files": [
+        "the_one_who_denied_the_prophecy"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "ladyofprophecy",
+      "files": [
+        "chimera_-_lady_of_prophecy"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "whatwebecame",
+      "files": [
+        "chimera_-_what_we_became"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "festival",
+      "files": [
+        "festival"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "realityforplant",
+      "files": [
+        "reality_for_the_plant_child"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "thornyandscattered",
+      "files": [
+        "thornyandscattered"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "warriorofthelost",
+      "files": [
+        "warriorofthelost"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "adaigo",
+      "files": [
+        "adaigo"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "waves",
+      "files": [
+        "witheringwaves"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "flow",
+      "files": [
+        "eternalflow"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "floeniaday",
+      "files": [
+        "floeniaday"
+      ],
+      "category": "record",
+      "subtitle": "Floenia - Daytime"
+    },
+    {
+      "name": "floeniamidday",
+      "files": [
+        "floeniamidday"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "floenianight",
+      "files": [
+        "floenianight"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "raindropsblade",
+      "files": [
+        "raindropsblade"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "scarletcolouredwater",
+      "files": [
+        "scarletcolouredwater"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "sin",
+      "files": [
+        "sin"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "tearsoftime",
+      "files": [
+        "tearsoftime"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "uncertainwaves",
+      "files": [
+        "uncertainwaves"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "father",
+      "files": [
+        "father"
+      ],
+      "category": "record",
+      "subtitle": ""
+    }
+  ],
   "tag_elements": {
     "BLOCKS:minecraft:leaves": [
       "~CUSTOM:Sakuraleaves"
@@ -553,37 +1312,149 @@
     ],
     "BLOCKS:minecraft:needs_stone_tool": [
       "~CUSTOM:Sakuraleaves"
+    ],
+    "ITEMS:minecraft:music_discs": [
+      "~CUSTOM:Flow",
+      "~CUSTOM:Waves",
+      "~CUSTOM:Adaigo",
+      "~CUSTOM:Warriorofthelost",
+      "~CUSTOM:Thornyandscattered",
+      "~CUSTOM:Lilymemory",
+      "~CUSTOM:Festival",
+      "~CUSTOM:Whatwebecame",
+      "~CUSTOM:Ladyofprophecy",
+      "~CUSTOM:Deniedprophecy",
+      "~CUSTOM:Tyingthestring",
+      "~CUSTOM:Princeoffate",
+      "~CUSTOM:Cardinalbattle",
+      "~CUSTOM:Scarletmusicbox",
+      "~CUSTOM:Scarlet2",
+      "~CUSTOM:Scarlet",
+      "~CUSTOM:Library",
+      "~CUSTOM:Thirtyminutes",
+      "~CUSTOM:Crimson",
+      "~CUSTOM:Leftbehind",
+      "~CUSTOM:Mothersmelody",
+      "~CUSTOM:Treesmelody",
+      "~CUSTOM:Musicboxowen",
+      "~CUSTOM:Musicboxcardinal"
     ]
   },
   "language_map": {
     "en_us": {
-      "item.horizonrpmod.voidessence": "Void Essence",
-      "item.horizonrpmod.lilyplush": "Lily Plush",
+      "item.horizonrpmod.thornyandscattered": "Thorny and Scattered",
+      "subtitles.scarletcolouredwater": "",
       "item.horizonrpmod.mortarandpestle": "Mortar and Pestle",
       "block.horizonrpmod.plantcore": "Plant Core",
-      "block.horizonrpmod.staticvoid": "Static Void",
-      "block.horizonrpmod.bluelilac": "Blue Lilac",
-      "effect.horizonrpmod.fated_moment": "Fated Moment",
-      "item.horizonrpmod.ri": "Ri",
-      "item.horizonrpmod.crown": "Crown",
+      "item.horizonrpmod.library": "Locked Library - Cardinal",
+      "subtitles.mothersmelody": "",
+      "item.horizonrpmod.warriorofthelost": "Warrior of the Lost - Abandoned",
+      "item.horizonrpmod.adaigo.desc": "Adaigo for my Blackbird - Commission Disc",
       "item.horizonrpmod.pearl": "Pearl",
       "item_group.horizonrpmod.horizon_rp": "Horizon RP",
-      "item.horizonrpmod.pearlshard": "Pearl Shard",
-      "item.horizonrpmod.keycard": "Keycard",
+      "item.horizonrpmod.mothersmelody.desc": "Mothers Melody - Season 1",
+      "subtitles.sin": "",
+      "item.horizonrpmod.waves": "Withering Waves",
       "item.horizonrpmod.wornnotepad": "Worn Notepad",
+      "item.horizonrpmod.scarlet.desc": "Scarlet-coloured illusion - Season 1",
       "block.horizonrpmod.plantmatter": "Plant Matter",
-      "item.horizonrpmod.voidchunk": "Void Chunk",
+      "subtitles.scarlet": "",
+      "item.horizonrpmod.leftbehind": "Left behind - Abandoned",
+      "item.horizonrpmod.ladyofprophecy": "Lady of Prophecy - Chimera",
+      "block.horizonrpmod.hardened_void": "Hardened Void",
+      "item.horizonrpmod.adaigo": "Adaigo for my Blackbird",
+      "subtitles.festival": "",
+      "subtitles.uncertainwaves": "",
+      "subtitles.scarletmusicbox": "",
+      "item.horizonrpmod.voidtendril": "Void Tendril",
+      "item.horizonrpmod.cardinalbattle.desc": "Fragment of the Fairytale - Season 1",
+      "item.horizonrpmod.thirtyminutes.desc": "Thirty Minutes - Season 1",
+      "item.horizonrpmod.waves.desc": "Withering Waves - Season 2",
+      "item.horizonrpmod.musicboxcardinal.desc": "Cardinal - Music Box - Season 1",
+      "item.horizonrpmod.lilyplush": "Lily Plush",
+      "subtitles.waves": "",
+      "item.horizonrpmod.scarletmusicbox": "Scarlet - Music Box",
+      "subtitles.treesmelody": "",
+      "item.horizonrpmod.scarlet": "Scarlet-coloured illusion",
+      "subtitles.realityforplant": "",
+      "item.horizonrpmod.treesmelody.desc": "Trees Melody - Season 1",
+      "effect.horizonrpmod.fated_moment": "Fated Moment",
+      "subtitles.deniedprophecy": "",
+      "item.horizonrpmod.treesmelody": "Trees Melody - Horizon",
+      "subtitles.abandonedblade": "Abandoned Blade",
+      "item.horizonrpmod.lilymemory": "Reality for the Plant Child - Lily",
+      "block.horizonrpmod.explosivevoid": "Explosive Void",
+      "subtitles.crimsonbox": "",
+      "item.horizonrpmod.festival": "Festival - Lily",
+      "subtitles.raindropsblade": "",
+      "subtitles.cardinalbox": "Cardinal - Music box",
+      "subtitles.floeniaday": "Floenia - Daytime",
+      "block.horizonrpmod.crystalizedvoid": "Crystalized Void",
+      "effect.horizonrpmod.ember_detonation": "Blooming Ember",
+      "subtitles.library": "",
+      "item.horizonrpmod.musicboxowen": "Crimson - Music Box",
+      "item.horizonrpmod.ladyofprophecy.desc": "Lady of Prophecy - Season 1",
+      "item.horizonrpmod.deniedprophecy.desc": "Denied Prophecy - Season 1",
+      "block.horizonrpmod.voidblock": "Static Void",
+      "item.horizonrpmod.scarletmusicbox.desc": "Scarlet - Music Box - Season 1",
+      "item.horizonrpmod.tyingthestring.desc": "Tying the String - Season 1",
+      "item.horizonrpmod.crimson": "Crimson - Crimsonia",
+      "subtitles.princeoffate": "",
+      "item.horizonrpmod.ri": "Ri",
+      "item.horizonrpmod.musicboxcardinal": "Cardinal - Music Box",
+      "item.horizonrpmod.scarlet_2": "Scarlet-Colored Reality",
+      "subtitles.tyingstrings": "",
+      "item.horizonrpmod.tyingthestring": "Tying the String - Chimera",
+      "item.horizonrpmod.warriorofthelost.desc": "Warrior of the Lost - Season 2",
+      "subtitles.crimson": "",
       "item.horizonrpmod.amulet": "Amulet",
+      "item.horizonrpmod.whatwebecame": "What We Became - Chimera",
       "block.horizonrpmod.sakuraleaves": "Sakura Leaves",
       "item.horizonrpmod.notepad": "Notepad",
-      "effect.horizonrpmod.ember_detonation": "Blooming Ember",
-      "block.horizonrpmod.hardened_void": "Hardened Void",
+      "item.horizonrpmod.thornyandscattered.desc": "Thorny and Scattered - Season 2",
       "item.horizonrpmod.okane": "Okane",
-      "item.horizonrpmod.denari": "Denari",
       "item.horizonrpmod.usbstick": "Usb Stick",
-      "item.horizonrpmod.voidtendril": "Void Tendril",
       "item.horizonrpmod.floppydisk": "Floppy Disk",
-      "block.horizonrpmod.void_flower": "Void Flower"
+      "subtitles.tearsoftime": "",
+      "subtitles.thirtyminutes": "",
+      "subtitles.leftbehind": "",
+      "subtitles.warriorofthelost": "",
+      "subtitles.ladyofprophecy": "",
+      "item.horizonrpmod.flow": "Eternal Flow - Lin",
+      "item.horizonrpmod.princeoffate.desc": "Prince of Fate - Season 1",
+      "item.horizonrpmod.voidessence": "Void Essence",
+      "block.horizonrpmod.nectar": "Nectar",
+      "subtitles.scarlet2": "",
+      "subtitles.fragmentoffairytale": "",
+      "item.horizonrpmod.cardinalbattle": "Fragment of the Fairytale - Cardinal",
+      "item.horizonrpmod.scarlet_2.desc": "Scarlet-Colored Reality - Season 1",
+      "item.horizonrpmod.leftbehind.desc": "Left Behind - Season 2",
+      "item.horizonrpmod.princeoffate": "Prince of Fate - Chimera",
+      "block.horizonrpmod.staticvoid": "Static Void",
+      "subtitles.floeniamidday": "",
+      "item.horizonrpmod.crimson.desc": "Crimson - Season 1",
+      "block.horizonrpmod.bluelilac": "Blue Lilac",
+      "item.horizonrpmod.whatwebecame.desc": "What We Became - Season 1",
+      "item.horizonrpmod.crown": "Crown",
+      "item.horizonrpmod.pearlshard": "Pearl Shard",
+      "item.horizonrpmod.keycard": "Keycard",
+      "subtitles.father": "",
+      "item.horizonrpmod.flow.desc": "Eternal Flow - Season 2",
+      "item.horizonrpmod.voidchunk": "Void Chunk",
+      "subtitles.thornyandscattered": "",
+      "item.horizonrpmod.thirtyminutes": "Thirty Minutes - Crimsonia",
+      "subtitles.floenianight": "",
+      "item.horizonrpmod.library.desc": "Library - Season 1",
+      "item.horizonrpmod.mothersmelody": "Mothers Melody - Horizon",
+      "subtitles.adaigo": "",
+      "subtitles.flow": "",
+      "item.horizonrpmod.denari": "Denari",
+      "item.horizonrpmod.festival.desc": "Festival - Season 1",
+      "item.horizonrpmod.deniedprophecy": "Denied Prophecy - Blumiere",
+      "subtitles.whatwebecame": "",
+      "block.horizonrpmod.void_flower": "Void Flower",
+      "item.horizonrpmod.lilymemory.desc": "Reality of the Plant Child - Season 2",
+      "item.horizonrpmod.musicboxowen.desc": "Crimson - Music Box - Season 1"
     }
   },
   "foldersRoot": {

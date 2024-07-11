@@ -1,0 +1,24 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Left behind - Abandoned",
+    "rarity": "EPIC",
+    "texture": "music_disc_abandoned",
+    "description": "Left Behind - Season 2",
+    "creativeTab": {
+      "value": "CUSTOM:HorizonRP"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:leftbehind"
+    },
+    "lengthInTicks": 10000,
+    "analogOutput": 0
+  }
+}

@@ -18,6 +18,7 @@ import net.minecraft.resources.ResourceLocation;
 import net.minecraft.network.FriendlyByteBuf;
 
 import net.mcreator.horizonrpmod.init.HorizonrpmodModTabs;
+import net.mcreator.horizonrpmod.init.HorizonrpmodModSounds;
 import net.mcreator.horizonrpmod.init.HorizonrpmodModMobEffects;
 import net.mcreator.horizonrpmod.init.HorizonrpmodModItems;
 import net.mcreator.horizonrpmod.init.HorizonrpmodModBlocks;
@@ -41,7 +42,7 @@ public class HorizonrpmodMod {
 		// End of user code block mod constructor
 		MinecraftForge.EVENT_BUS.register(this);
 		IEventBus bus = FMLJavaModLoadingContext.get().getModEventBus();
-
+		HorizonrpmodModSounds.REGISTRY.register(bus);
 		HorizonrpmodModBlocks.REGISTRY.register(bus);
 
 		HorizonrpmodModItems.REGISTRY.register(bus);

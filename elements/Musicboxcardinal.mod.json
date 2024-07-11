@@ -1,0 +1,24 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Cardinal - Music Box",
+    "rarity": "EPIC",
+    "texture": "music_disc_ll",
+    "description": "Cardinal - Music Box - Season 1",
+    "creativeTab": {
+      "value": "CUSTOM:HorizonRP"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:cardinalbox"
+    },
+    "lengthInTicks": 10000,
+    "analogOutput": 0
+  }
+}

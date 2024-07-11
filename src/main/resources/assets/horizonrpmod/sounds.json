@@ -1,0 +1,281 @@
+{
+  "abandonedblade": {
+    "subtitle": "subtitles.abandonedblade",
+    "sounds": [
+      {
+        "name": "horizonrpmod:abandonedblade",
+        "stream": true
+      }
+    ]
+  },
+  "cardinalbox": {
+    "subtitle": "subtitles.cardinalbox",
+    "sounds": [
+      {
+        "name": "horizonrpmod:lockedlibrarymusicbox",
+        "stream": true
+      }
+    ]
+  },
+  "crimsonbox": {
+    "sounds": [
+      {
+        "name": "horizonrpmod:music_box",
+        "stream": true
+      }
+    ]
+  },
+  "treesmelody": {
+    "sounds": [
+      {
+        "name": "horizonrpmod:treesmelody",
+        "stream": true
+      }
+    ]
+  },
+  "mothersmelody": {
+    "sounds": [
+      {
+        "name": "horizonrpmod:mothermelodyv2",
+        "stream": true
+      }
+    ]
+  },
+  "leftbehind": {
+    "sounds": [
+      {
+        "name": "horizonrpmod:leftbehind",
+        "stream": true
+      }
+    ]
+  },
+  "crimson": {
+    "sounds": [
+      {
+        "name": "horizonrpmod:crimson",
+        "stream": true
+      }
+    ]
+  },
+  "thirtyminutes": {
+    "sounds": [
+      {
+        "name": "horizonrpmod:crimson-_the_final_30_minutes",
+        "stream": true
+      }
+    ]
+  },
+  "library": {
+    "sounds": [
+      {
+        "name": "horizonrpmod:library",
+        "stream": true
+      }
+    ]
+  },
+  "scarlet": {
+    "sounds": [
+      {
+        "name": "horizonrpmod:scarlet",
+        "stream": true
+      }
+    ]
+  },
+  "scarlet2": {
+    "sounds": [
+      {
+        "name": "horizonrpmod:septet_for_the_dead_princess_touhou_koumakyou___the_embodiment_of_scarlet_devil._music_box",
+        "stream": true
+      },
+      {
+        "name": "horizonrpmod:septette_for_the_dead_princess_-_remilia_scarlets_theme_orchestral_version_1",
+        "stream": true
+      }
+    ]
+  },
+  "scarletmusicbox": {
+    "sounds": [
+      {
+        "name": "horizonrpmod:septet_for_the_dead_princess_touhou_koumakyou___the_embodiment_of_scarlet_devil._music_box",
+        "stream": true
+      }
+    ]
+  },
+  "fragmentoffairytale": {
+    "sounds": [
+      {
+        "name": "horizonrpmod:keyword_-_fragment_of_the_fairytale",
+        "stream": true
+      }
+    ]
+  },
+  "princeoffate": {
+    "sounds": [
+      {
+        "name": "horizonrpmod:chimera_-_prince_of_fate",
+        "stream": true
+      }
+    ]
+  },
+  "tyingstrings": {
+    "sounds": [
+      {
+        "name": "horizonrpmod:chimera_-_tying_the_string",
+        "stream": true
+      }
+    ]
+  },
+  "deniedprophecy": {
+    "sounds": [
+      {
+        "name": "horizonrpmod:the_one_who_denied_the_prophecy",
+        "stream": true
+      }
+    ]
+  },
+  "ladyofprophecy": {
+    "sounds": [
+      {
+        "name": "horizonrpmod:chimera_-_lady_of_prophecy",
+        "stream": true
+      }
+    ]
+  },
+  "whatwebecame": {
+    "sounds": [
+      {
+        "name": "horizonrpmod:chimera_-_what_we_became",
+        "stream": true
+      }
+    ]
+  },
+  "festival": {
+    "sounds": [
+      {
+        "name": "horizonrpmod:festival",
+        "stream": true
+      }
+    ]
+  },
+  "realityforplant": {
+    "sounds": [
+      {
+        "name": "horizonrpmod:reality_for_the_plant_child",
+        "stream": true
+      }
+    ]
+  },
+  "thornyandscattered": {
+    "sounds": [
+      {
+        "name": "horizonrpmod:thornyandscattered",
+        "stream": true
+      }
+    ]
+  },
+  "warriorofthelost": {
+    "sounds": [
+      {
+        "name": "horizonrpmod:warriorofthelost",
+        "stream": true
+      }
+    ]
+  },
+  "adaigo": {
+    "sounds": [
+      {
+        "name": "horizonrpmod:adaigo",
+        "stream": true
+      }
+    ]
+  },
+  "waves": {
+    "sounds": [
+      {
+        "name": "horizonrpmod:witheringwaves",
+        "stream": true
+      }
+    ]
+  },
+  "flow": {
+    "sounds": [
+      {
+        "name": "horizonrpmod:eternalflow",
+        "stream": true
+      }
+    ]
+  },
+  "floeniaday": {
+    "subtitle": "subtitles.floeniaday",
+    "sounds": [
+      {
+        "name": "horizonrpmod:floeniaday",
+        "stream": true
+      }
+    ]
+  },
+  "floeniamidday": {
+    "sounds": [
+      {
+        "name": "horizonrpmod:floeniamidday",
+        "stream": true
+      }
+    ]
+  },
+  "floenianight": {
+    "sounds": [
+      {
+        "name": "horizonrpmod:floenianight",
+        "stream": true
+      }
+    ]
+  },
+  "raindropsblade": {
+    "sounds": [
+      {
+        "name": "horizonrpmod:raindropsblade",
+        "stream": true
+      }
+    ]
+  },
+  "scarletcolouredwater": {
+    "sounds": [
+      {
+        "name": "horizonrpmod:scarletcolouredwater",
+        "stream": true
+      }
+    ]
+  },
+  "sin": {
+    "sounds": [
+      {
+        "name": "horizonrpmod:sin",
+        "stream": true
+      }
+    ]
+  },
+  "tearsoftime": {
+    "sounds": [
+      {
+        "name": "horizonrpmod:tearsoftime",
+        "stream": true
+      }
+    ]
+  },
+  "uncertainwaves": {
+    "sounds": [
+      {
+        "name": "horizonrpmod:uncertainwaves",
+        "stream": true
+      }
+    ]
+  },
+  "father": {
+    "sounds": [
+      {
+        "name": "horizonrpmod:father",
+        "stream": true
+      }
+    ]
+  }
+}

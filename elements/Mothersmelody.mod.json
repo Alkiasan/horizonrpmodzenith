@@ -1,0 +1,24 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Mothers Melody - Horizon",
+    "rarity": "EPIC",
+    "texture": "music_disc_mm",
+    "description": "Mothers Melody - Season 1",
+    "creativeTab": {
+      "value": "CUSTOM:HorizonRP"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:mothersmelody"
+    },
+    "lengthInTicks": 10000,
+    "analogOutput": 0
+  }
+}

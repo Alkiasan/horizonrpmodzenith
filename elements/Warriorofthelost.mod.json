@@ -1,0 +1,24 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Warrior of the Lost - Abandoned",
+    "rarity": "EPIC",
+    "texture": "music_disc_abandoned",
+    "description": "Warrior of the Lost - Season 2",
+    "creativeTab": {
+      "value": "CUSTOM:HorizonRP"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:warriorofthelost"
+    },
+    "lengthInTicks": 10000,
+    "analogOutput": 0
+  }
+}

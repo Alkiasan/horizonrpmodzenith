@@ -42,6 +42,34 @@ public class HorizonrpmodModTabs {
 				tabData.accept(HorizonrpmodModBlocks.PLANTMATTER.get().asItem());
 				tabData.accept(HorizonrpmodModBlocks.STATICVOID.get().asItem());
 				tabData.accept(HorizonrpmodModBlocks.HARDENED_VOID.get().asItem());
+				tabData.accept(HorizonrpmodModItems.MUSICBOXCARDINAL.get());
+				tabData.accept(HorizonrpmodModItems.MUSICBOXOWEN.get());
+				tabData.accept(HorizonrpmodModItems.TREESMELODY.get());
+				tabData.accept(HorizonrpmodModItems.MOTHERSMELODY.get());
+				tabData.accept(HorizonrpmodModItems.LEFTBEHIND.get());
+				tabData.accept(HorizonrpmodModItems.CRIMSON.get());
+				tabData.accept(HorizonrpmodModItems.THIRTYMINUTES.get());
+				tabData.accept(HorizonrpmodModItems.LIBRARY.get());
+				tabData.accept(HorizonrpmodModItems.SCARLET.get());
+				tabData.accept(HorizonrpmodModItems.SCARLET_2.get());
+				tabData.accept(HorizonrpmodModItems.SCARLETMUSICBOX.get());
+				tabData.accept(HorizonrpmodModItems.CARDINALBATTLE.get());
+				tabData.accept(HorizonrpmodModItems.PRINCEOFFATE.get());
+				tabData.accept(HorizonrpmodModItems.TYINGTHESTRING.get());
+				tabData.accept(HorizonrpmodModItems.DENIEDPROPHECY.get());
+				tabData.accept(HorizonrpmodModItems.LADYOFPROPHECY.get());
+				tabData.accept(HorizonrpmodModItems.WHATWEBECAME.get());
+				tabData.accept(HorizonrpmodModItems.FESTIVAL.get());
+				tabData.accept(HorizonrpmodModItems.LILYMEMORY.get());
+				tabData.accept(HorizonrpmodModItems.THORNYANDSCATTERED.get());
+				tabData.accept(HorizonrpmodModItems.WARRIOROFTHELOST.get());
+				tabData.accept(HorizonrpmodModItems.ADAIGO.get());
+				tabData.accept(HorizonrpmodModItems.WAVES.get());
+				tabData.accept(HorizonrpmodModItems.FLOW.get());
+				tabData.accept(HorizonrpmodModBlocks.NECTAR.get().asItem());
+				tabData.accept(HorizonrpmodModBlocks.VOIDBLOCK.get().asItem());
+				tabData.accept(HorizonrpmodModBlocks.EXPLOSIVEVOID.get().asItem());
+				tabData.accept(HorizonrpmodModBlocks.CRYSTALIZEDVOID.get().asItem());
 			})
 
 					.build());

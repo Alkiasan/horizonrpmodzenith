@@ -1,0 +1,24 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Fragment of the Fairytale - Cardinal",
+    "rarity": "EPIC",
+    "texture": "music_disc_ll",
+    "description": "Fragment of the Fairytale - Season 1",
+    "creativeTab": {
+      "value": "CUSTOM:HorizonRP"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:fragmentoffairytale"
+    },
+    "lengthInTicks": 10000,
+    "analogOutput": 0
+  }
+}

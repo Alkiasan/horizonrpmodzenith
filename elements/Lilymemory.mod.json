@@ -1,0 +1,24 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Reality for the Plant Child - Lily",
+    "rarity": "EPIC",
+    "texture": "treemelody",
+    "description": "Reality of the Plant Child - Season 2",
+    "creativeTab": {
+      "value": "CUSTOM:HorizonRP"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:realityforplant"
+    },
+    "lengthInTicks": 10000,
+    "analogOutput": 0
+  }
+}

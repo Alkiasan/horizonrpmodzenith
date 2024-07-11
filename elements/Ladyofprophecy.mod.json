@@ -1,0 +1,24 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Lady of Prophecy - Chimera",
+    "rarity": "EPIC",
+    "texture": "bapbapbap_disc_mb",
+    "description": "Lady of Prophecy - Season 1",
+    "creativeTab": {
+      "value": "CUSTOM:HorizonRP"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:ladyofprophecy"
+    },
+    "lengthInTicks": 10000,
+    "analogOutput": 0
+  }
+}

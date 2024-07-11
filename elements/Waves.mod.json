@@ -1,0 +1,24 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Withering Waves",
+    "rarity": "EPIC",
+    "texture": "music_disc_lin",
+    "description": "Withering Waves - Season 2",
+    "creativeTab": {
+      "value": "CUSTOM:HorizonRP"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:waves"
+    },
+    "lengthInTicks": 10000,
+    "analogOutput": 0
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Eternal Flow - Lin",
+    "rarity": "EPIC",
+    "texture": "music_disc_lin",
+    "description": "Eternal Flow - Season 2",
+    "creativeTab": {
+      "value": "CUSTOM:HorizonRP"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:flow"
+    },
+    "lengthInTicks": 10000,
+    "analogOutput": 0
+  }
+}

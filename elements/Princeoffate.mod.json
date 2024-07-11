@@ -1,0 +1,24 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Prince of Fate - Chimera",
+    "rarity": "EPIC",
+    "texture": "bapbapbap_disc_mb",
+    "description": "Prince of Fate - Season 1",
+    "creativeTab": {
+      "value": "CUSTOM:HorizonRP"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:princeoffate"
+    },
+    "lengthInTicks": 10000,
+    "analogOutput": 0
+  }
+}

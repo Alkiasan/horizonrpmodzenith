@@ -70,6 +70,15 @@ public class HorizonrpmodModTabs {
 				tabData.accept(HorizonrpmodModBlocks.VOIDBLOCK.get().asItem());
 				tabData.accept(HorizonrpmodModBlocks.EXPLOSIVEVOID.get().asItem());
 				tabData.accept(HorizonrpmodModBlocks.CRYSTALIZEDVOID.get().asItem());
+				tabData.accept(HorizonrpmodModItems.FLOENIADAY.get());
+				tabData.accept(HorizonrpmodModItems.FLOENIAMIDDAY.get());
+				tabData.accept(HorizonrpmodModItems.FLOENIANIGHT.get());
+				tabData.accept(HorizonrpmodModItems.SCARLETCOLOUREDWATER.get());
+				tabData.accept(HorizonrpmodModItems.RAINDROPS.get());
+				tabData.accept(HorizonrpmodModItems.SIN.get());
+				tabData.accept(HorizonrpmodModItems.TEARSOFTIME.get());
+				tabData.accept(HorizonrpmodModItems.UNCERTAINWAVES.get());
+				tabData.accept(HorizonrpmodModItems.FATHER.get());
 			})
 
 					.build());

@@ -1,0 +1,24 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Daytime - Floenia",
+    "rarity": "EPIC",
+    "texture": "music_disc",
+    "description": "Floenia Daytime - Season 3",
+    "creativeTab": {
+      "value": "CUSTOM:HorizonRP"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:floeniaday"
+    },
+    "lengthInTicks": 10000,
+    "analogOutput": 0
+  }
+}

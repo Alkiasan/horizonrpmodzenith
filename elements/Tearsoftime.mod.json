@@ -1,0 +1,24 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Tears of Time - Floenia",
+    "rarity": "EPIC",
+    "texture": "music_disc",
+    "description": "Tears of Time - Season 3",
+    "creativeTab": {
+      "value": "CUSTOM:HorizonRP"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:tearsoftime"
+    },
+    "lengthInTicks": 10000,
+    "analogOutput": 0
+  }
+}

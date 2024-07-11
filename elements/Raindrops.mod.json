@@ -1,0 +1,24 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Raindrops Amidst Blades - Floenia",
+    "rarity": "EPIC",
+    "texture": "music_disc",
+    "description": "Raindrops Amidst Blades - Season 3",
+    "creativeTab": {
+      "value": "CUSTOM:HorizonRP"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:raindropsblade"
+    },
+    "lengthInTicks": 10000,
+    "analogOutput": 0
+  }
+}

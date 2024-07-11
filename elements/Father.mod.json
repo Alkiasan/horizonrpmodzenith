@@ -1,0 +1,24 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Father - Elfa",
+    "rarity": "EPIC",
+    "texture": "music_disc_mb",
+    "description": "Father - Season 2",
+    "creativeTab": {
+      "value": "CUSTOM:HorizonRP"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:father"
+    },
+    "lengthInTicks": 10000,
+    "analogOutput": 0
+  }
+}

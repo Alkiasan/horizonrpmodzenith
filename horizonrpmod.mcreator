@@ -1016,6 +1016,132 @@
           "src/main/java/net/mcreator/horizonrpmod/block/CrystalizedvoidBlock.java"
         ]
       }
+    },
+    {
+      "name": "Floeniaday",
+      "type": "musicdisc",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "floeniaday",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/horizonrpmod/item/FloeniadayItem.java",
+          "src/main/resources/assets/horizonrpmod/models/item/floeniaday.json"
+        ]
+      }
+    },
+    {
+      "name": "Floeniamidday",
+      "type": "musicdisc",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "floeniamidday",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/horizonrpmod/item/FloeniamiddayItem.java",
+          "src/main/resources/assets/horizonrpmod/models/item/floeniamidday.json"
+        ]
+      }
+    },
+    {
+      "name": "Floenianight",
+      "type": "musicdisc",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "floenianight",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/horizonrpmod/item/FloenianightItem.java",
+          "src/main/resources/assets/horizonrpmod/models/item/floenianight.json"
+        ]
+      }
+    },
+    {
+      "name": "Scarletcolouredwater",
+      "type": "musicdisc",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "scarletcolouredwater",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/horizonrpmod/item/ScarletcolouredwaterItem.java",
+          "src/main/resources/assets/horizonrpmod/models/item/scarletcolouredwater.json"
+        ]
+      }
+    },
+    {
+      "name": "Raindrops",
+      "type": "musicdisc",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "raindrops",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/horizonrpmod/models/item/raindrops.json",
+          "src/main/java/net/mcreator/horizonrpmod/item/RaindropsItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Sin",
+      "type": "musicdisc",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sin",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/horizonrpmod/models/item/sin.json",
+          "src/main/java/net/mcreator/horizonrpmod/item/SinItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Tearsoftime",
+      "type": "musicdisc",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tearsoftime",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/horizonrpmod/models/item/tearsoftime.json",
+          "src/main/java/net/mcreator/horizonrpmod/item/TearsoftimeItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Uncertainwaves",
+      "type": "musicdisc",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uncertainwaves",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/horizonrpmod/item/UncertainwavesItem.java",
+          "src/main/resources/assets/horizonrpmod/models/item/uncertainwaves.json"
+        ]
+      }
+    },
+    {
+      "name": "Father",
+      "type": "musicdisc",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "father",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/horizonrpmod/item/FatherItem.java",
+          "src/main/resources/assets/horizonrpmod/models/item/father.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -1314,6 +1440,15 @@
       "~CUSTOM:Sakuraleaves"
     ],
     "ITEMS:minecraft:music_discs": [
+      "~CUSTOM:Father",
+      "~CUSTOM:Uncertainwaves",
+      "~CUSTOM:Tearsoftime",
+      "~CUSTOM:Sin",
+      "~CUSTOM:Raindrops",
+      "~CUSTOM:Scarletcolouredwater",
+      "~CUSTOM:Floenianight",
+      "~CUSTOM:Floeniamidday",
+      "~CUSTOM:Floeniaday",
       "~CUSTOM:Flow",
       "~CUSTOM:Waves",
       "~CUSTOM:Adaigo",
@@ -1345,14 +1480,17 @@
       "item.horizonrpmod.thornyandscattered": "Thorny and Scattered",
       "subtitles.scarletcolouredwater": "",
       "item.horizonrpmod.mortarandpestle": "Mortar and Pestle",
-      "block.horizonrpmod.plantcore": "Plant Core",
       "item.horizonrpmod.library": "Locked Library - Cardinal",
+      "block.horizonrpmod.plantcore": "Plant Core",
       "subtitles.mothersmelody": "",
       "item.horizonrpmod.warriorofthelost": "Warrior of the Lost - Abandoned",
+      "item.horizonrpmod.floenianight": "Night - Floenia",
       "item.horizonrpmod.adaigo.desc": "Adaigo for my Blackbird - Commission Disc",
+      "item.horizonrpmod.sin": "Sin - Floenia",
       "item.horizonrpmod.pearl": "Pearl",
       "item_group.horizonrpmod.horizon_rp": "Horizon RP",
       "item.horizonrpmod.mothersmelody.desc": "Mothers Melody - Season 1",
+      "item.horizonrpmod.scarletcolouredwater": "Scarlet-Coloured Water - Floenia",
       "subtitles.sin": "",
       "item.horizonrpmod.waves": "Withering Waves",
       "item.horizonrpmod.wornnotepad": "Worn Notepad",
@@ -1362,20 +1500,24 @@
       "item.horizonrpmod.leftbehind": "Left behind - Abandoned",
       "item.horizonrpmod.ladyofprophecy": "Lady of Prophecy - Chimera",
       "block.horizonrpmod.hardened_void": "Hardened Void",
+      "item.horizonrpmod.floeniaday.desc": "Floenia Daytime - Season 3",
       "item.horizonrpmod.adaigo": "Adaigo for my Blackbird",
-      "subtitles.festival": "",
       "subtitles.uncertainwaves": "",
+      "subtitles.festival": "",
       "subtitles.scarletmusicbox": "",
-      "item.horizonrpmod.voidtendril": "Void Tendril",
       "item.horizonrpmod.cardinalbattle.desc": "Fragment of the Fairytale - Season 1",
+      "item.horizonrpmod.voidtendril": "Void Tendril",
       "item.horizonrpmod.thirtyminutes.desc": "Thirty Minutes - Season 1",
+      "item.horizonrpmod.raindrops.desc": "Raindrops Amidst Blades - Season 3",
       "item.horizonrpmod.waves.desc": "Withering Waves - Season 2",
       "item.horizonrpmod.musicboxcardinal.desc": "Cardinal - Music Box - Season 1",
       "item.horizonrpmod.lilyplush": "Lily Plush",
       "subtitles.waves": "",
       "item.horizonrpmod.scarletmusicbox": "Scarlet - Music Box",
+      "item.horizonrpmod.uncertainwaves.desc": "Uncertain Waves - Season 3",
       "subtitles.treesmelody": "",
       "item.horizonrpmod.scarlet": "Scarlet-coloured illusion",
+      "item.horizonrpmod.father.desc": "Father - Season 2",
       "subtitles.realityforplant": "",
       "item.horizonrpmod.treesmelody.desc": "Trees Melody - Season 1",
       "effect.horizonrpmod.fated_moment": "Fated Moment",
@@ -1383,7 +1525,10 @@
       "item.horizonrpmod.treesmelody": "Trees Melody - Horizon",
       "subtitles.abandonedblade": "Abandoned Blade",
       "item.horizonrpmod.lilymemory": "Reality for the Plant Child - Lily",
+      "item.horizonrpmod.tearsoftime.desc": "Tears of Time - Season 3",
+      "item.horizonrpmod.father": "Father - Elfa",
       "block.horizonrpmod.explosivevoid": "Explosive Void",
+      "item.horizonrpmod.tearsoftime": "Tears of Time - Floenia",
       "subtitles.crimsonbox": "",
       "item.horizonrpmod.festival": "Festival - Lily",
       "subtitles.raindropsblade": "",
@@ -1394,11 +1539,14 @@
       "subtitles.library": "",
       "item.horizonrpmod.musicboxowen": "Crimson - Music Box",
       "item.horizonrpmod.ladyofprophecy.desc": "Lady of Prophecy - Season 1",
+      "item.horizonrpmod.scarletcolouredwater.desc": "Scarlet-Coloured Water - Season 3",
+      "item.horizonrpmod.sin.desc": "Sin - Season 3",
       "item.horizonrpmod.deniedprophecy.desc": "Denied Prophecy - Season 1",
       "block.horizonrpmod.voidblock": "Static Void",
       "item.horizonrpmod.scarletmusicbox.desc": "Scarlet - Music Box - Season 1",
       "item.horizonrpmod.tyingthestring.desc": "Tying the String - Season 1",
       "item.horizonrpmod.crimson": "Crimson - Crimsonia",
+      "item.horizonrpmod.floeniamidday.desc": "Floenia Mid-Day - Season 3",
       "subtitles.princeoffate": "",
       "item.horizonrpmod.ri": "Ri",
       "item.horizonrpmod.musicboxcardinal": "Cardinal - Music Box",
@@ -1412,7 +1560,10 @@
       "block.horizonrpmod.sakuraleaves": "Sakura Leaves",
       "item.horizonrpmod.notepad": "Notepad",
       "item.horizonrpmod.thornyandscattered.desc": "Thorny and Scattered - Season 2",
+      "item.horizonrpmod.floeniamidday": "Mid-Day - Floenia",
       "item.horizonrpmod.okane": "Okane",
+      "item.horizonrpmod.raindrops": "Raindrops Amidst Blades - Floenia",
+      "item.horizonrpmod.floenianight.desc": "Floenia Night - Season 3",
       "item.horizonrpmod.usbstick": "Usb Stick",
       "item.horizonrpmod.floppydisk": "Floppy Disk",
       "subtitles.tearsoftime": "",
@@ -1432,12 +1583,14 @@
       "item.horizonrpmod.princeoffate": "Prince of Fate - Chimera",
       "block.horizonrpmod.staticvoid": "Static Void",
       "subtitles.floeniamidday": "",
+      "item.horizonrpmod.floeniaday": "Daytime - Floenia",
       "item.horizonrpmod.crimson.desc": "Crimson - Season 1",
       "block.horizonrpmod.bluelilac": "Blue Lilac",
       "item.horizonrpmod.whatwebecame.desc": "What We Became - Season 1",
       "item.horizonrpmod.crown": "Crown",
       "item.horizonrpmod.pearlshard": "Pearl Shard",
       "item.horizonrpmod.keycard": "Keycard",
+      "item.horizonrpmod.uncertainwaves": "Uncertain Waves - Floenia",
       "subtitles.father": "",
       "item.horizonrpmod.flow.desc": "Eternal Flow - Season 2",
       "item.horizonrpmod.voidchunk": "Void Chunk",

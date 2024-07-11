@@ -1,6 +1,15 @@
 {
   "replace": false,
   "values": [
+    "horizonrpmod:father",
+    "horizonrpmod:uncertainwaves",
+    "horizonrpmod:tearsoftime",
+    "horizonrpmod:sin",
+    "horizonrpmod:raindrops",
+    "horizonrpmod:scarletcolouredwater",
+    "horizonrpmod:floenianight",
+    "horizonrpmod:floeniamidday",
+    "horizonrpmod:floeniaday",
     "horizonrpmod:flow",
     "horizonrpmod:waves",
     "horizonrpmod:adaigo",

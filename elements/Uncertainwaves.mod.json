@@ -1,0 +1,24 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Uncertain Waves - Floenia",
+    "rarity": "EPIC",
+    "texture": "music_disc",
+    "description": "Uncertain Waves - Season 3",
+    "creativeTab": {
+      "value": "CUSTOM:HorizonRP"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:uncertainwaves"
+    },
+    "lengthInTicks": 10000,
+    "analogOutput": 0
+  }
+}

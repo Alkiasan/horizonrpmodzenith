@@ -21,14 +21,19 @@ import net.mcreator.horizonrpmod.item.VoidtendrilItem;
 import net.mcreator.horizonrpmod.item.VoidessenceItem;
 import net.mcreator.horizonrpmod.item.VoidchunkItem;
 import net.mcreator.horizonrpmod.item.UsbstickItem;
+import net.mcreator.horizonrpmod.item.UncertainwavesItem;
 import net.mcreator.horizonrpmod.item.TyingthestringItem;
 import net.mcreator.horizonrpmod.item.TreesmelodyItem;
 import net.mcreator.horizonrpmod.item.ThornyandscatteredItem;
 import net.mcreator.horizonrpmod.item.ThirtyminutesItem;
+import net.mcreator.horizonrpmod.item.TearsoftimeItem;
+import net.mcreator.horizonrpmod.item.SinItem;
 import net.mcreator.horizonrpmod.item.ScarletmusicboxItem;
+import net.mcreator.horizonrpmod.item.ScarletcolouredwaterItem;
 import net.mcreator.horizonrpmod.item.ScarletItem;
 import net.mcreator.horizonrpmod.item.Scarlet2Item;
 import net.mcreator.horizonrpmod.item.RiItem;
+import net.mcreator.horizonrpmod.item.RaindropsItem;
 import net.mcreator.horizonrpmod.item.PrinceoffateItem;
 import net.mcreator.horizonrpmod.item.PearlshardItem;
 import net.mcreator.horizonrpmod.item.PearlItem;
@@ -46,7 +51,11 @@ import net.mcreator.horizonrpmod.item.LadyofprophecyItem;
 import net.mcreator.horizonrpmod.item.KeycardItem;
 import net.mcreator.horizonrpmod.item.FlowItem;
 import net.mcreator.horizonrpmod.item.FloppydiskItem;
+import net.mcreator.horizonrpmod.item.FloenianightItem;
+import net.mcreator.horizonrpmod.item.FloeniamiddayItem;
+import net.mcreator.horizonrpmod.item.FloeniadayItem;
 import net.mcreator.horizonrpmod.item.FestivalItem;
+import net.mcreator.horizonrpmod.item.FatherItem;
 import net.mcreator.horizonrpmod.item.DeniedprophecyItem;
 import net.mcreator.horizonrpmod.item.DenariItem;
 import net.mcreator.horizonrpmod.item.CrownItem;
@@ -110,6 +119,15 @@ public class HorizonrpmodModItems {
 	public static final RegistryObject<Item> VOIDBLOCK = block(HorizonrpmodModBlocks.VOIDBLOCK);
 	public static final RegistryObject<Item> EXPLOSIVEVOID = block(HorizonrpmodModBlocks.EXPLOSIVEVOID);
 	public static final RegistryObject<Item> CRYSTALIZEDVOID = block(HorizonrpmodModBlocks.CRYSTALIZEDVOID);
+	public static final RegistryObject<Item> FLOENIADAY = REGISTRY.register("floeniaday", () -> new FloeniadayItem());
+	public static final RegistryObject<Item> FLOENIAMIDDAY = REGISTRY.register("floeniamidday", () -> new FloeniamiddayItem());
+	public static final RegistryObject<Item> FLOENIANIGHT = REGISTRY.register("floenianight", () -> new FloenianightItem());
+	public static final RegistryObject<Item> SCARLETCOLOUREDWATER = REGISTRY.register("scarletcolouredwater", () -> new ScarletcolouredwaterItem());
+	public static final RegistryObject<Item> RAINDROPS = REGISTRY.register("raindrops", () -> new RaindropsItem());
+	public static final RegistryObject<Item> SIN = REGISTRY.register("sin", () -> new SinItem());
+	public static final RegistryObject<Item> TEARSOFTIME = REGISTRY.register("tearsoftime", () -> new TearsoftimeItem());
+	public static final RegistryObject<Item> UNCERTAINWAVES = REGISTRY.register("uncertainwaves", () -> new UncertainwavesItem());
+	public static final RegistryObject<Item> FATHER = REGISTRY.register("father", () -> new FatherItem());
 
 	// Start of user code block custom items
 	// End of user code block custom items

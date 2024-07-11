@@ -1,0 +1,24 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Mid-Day - Floenia",
+    "rarity": "EPIC",
+    "texture": "music_disc",
+    "description": "Floenia Mid-Day - Season 3",
+    "creativeTab": {
+      "value": "CUSTOM:HorizonRP"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:floeniamidday"
+    },
+    "lengthInTicks": 10000,
+    "analogOutput": 0
+  }
+}

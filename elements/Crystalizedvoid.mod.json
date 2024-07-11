@@ -2,7 +2,7 @@
   "_fv": 60,
   "_type": "block",
   "definition": {
-    "texture": "crystalizedvoid",
+    "texture": "crystalvoidanim",
     "textureTop": "static_void",
     "textureLeft": "static_void",
     "textureFront": "static_void",

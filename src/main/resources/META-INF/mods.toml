@@ -6,9 +6,10 @@ license="Not specified"
 modId="horizonrpmod"
 version="1.0.0"
 displayName="Horizon Rp Mod"
-displayURL="https://mcreator.net"
-credits="Created using mod maker MCreator - https://mcreator.net/about"
-authors="Ben, MCreator"
+displayURL="https://social.mtdv.me/blog/posts/horizonrpstory"
+logoFile="logo.png"
+credits="Roguen took 20 minutes to draw a disc and still didnt"
+authors="Alkia, Roguen"
 
 # Start of user code block mod configuration
 # End of user code block mod configuration

@@ -80,6 +80,9 @@
     "speedFactor": 1.0,
     "canBePlacedOn": [],
     "isBonemealable": true,
+    "onBonemealSuccess": {
+      "name": "BluelilacOnBoneMealSuccess"
+    },
     "frequencyOnChunks": 5,
     "generateFeature": false,
     "restrictionBiomes": [],

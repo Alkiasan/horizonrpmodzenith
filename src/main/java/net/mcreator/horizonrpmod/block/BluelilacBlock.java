@@ -18,6 +18,8 @@ import net.minecraft.server.level.ServerLevel;
 import net.minecraft.core.Direction;
 import net.minecraft.core.BlockPos;
 
+import net.mcreator.horizonrpmod.procedures.BluelilacOnBoneMealSuccessProcedure;
+
 public class BluelilacBlock extends DoublePlantBlock implements BonemealableBlock {
 	public BluelilacBlock() {
 		super(BlockBehaviour.Properties.of().mapColor(MapColor.PLANT).sound(SoundType.GRASS).instabreak().noCollission().offsetType(BlockBehaviour.OffsetType.XZ).pushReaction(PushReaction.DESTROY));
@@ -50,5 +52,6 @@ public class BluelilacBlock extends DoublePlantBlock implements BonemealableBloc
 
 	@Override
 	public void performBonemeal(ServerLevel world, RandomSource random, BlockPos pos, BlockState blockstate) {
+		BluelilacOnBoneMealSuccessProcedure.execute(world, pos.getX(), pos.getY(), pos.getZ());
 	}
 }

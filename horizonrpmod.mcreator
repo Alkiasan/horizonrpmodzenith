@@ -321,37 +321,6 @@
       }
     },
     {
-      "name": "BluelilacOnBoneMealSuccess",
-      "type": "procedure",
-      "sortid": 23,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "bluelilac_on_bone_meal_success",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/horizonrpmod/procedures/BluelilacOnBoneMealSuccessProcedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      }
-    },
-    {
       "name": "EmberDetonationEffectExpires",
       "type": "procedure",
       "sortid": 24,
@@ -1142,6 +1111,37 @@
           "src/main/resources/assets/horizonrpmod/models/item/father.json"
         ]
       }
+    },
+    {
+      "name": "BluelilacOnBoneMealSuccess",
+      "type": "procedure",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bluelilac_on_bone_meal_success",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/horizonrpmod/procedures/BluelilacOnBoneMealSuccessProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -1421,9 +1421,6 @@
     }
   ],
   "tag_elements": {
-    "BLOCKS:minecraft:leaves": [
-      "~CUSTOM:Sakuraleaves"
-    ],
     "BLOCKS:minecraft:replaceable": [
       "~CUSTOM:VoidFlower"
     ],
@@ -1433,11 +1430,11 @@
     "BLOCKS:minecraft:mineable/hoe": [
       "~CUSTOM:Sakuraleaves"
     ],
-    "BLOCKS:minecraft:mineable/pickaxe": [
-      "~CUSTOM:HardenedVoid"
+    "BLOCKS:minecraft:tall_flowers": [
+      "CUSTOM:Bluelilac"
     ],
-    "BLOCKS:minecraft:needs_stone_tool": [
-      "~CUSTOM:Sakuraleaves"
+    "ITEMS:minecraft:flowers": [
+      "CUSTOM:Bluelilac"
     ],
     "ITEMS:minecraft:music_discs": [
       "~CUSTOM:Father",
@@ -1473,6 +1470,18 @@
       "~CUSTOM:Treesmelody",
       "~CUSTOM:Musicboxowen",
       "~CUSTOM:Musicboxcardinal"
+    ],
+    "BIOMES:minecraft:is_overworld": [],
+    "BLOCKS:minecraft:logs": [],
+    "BLOCKS:minecraft:leaves": [
+      "~CUSTOM:Sakuraleaves"
+    ],
+    "BLOCKS:minecraft:dirt": [],
+    "BLOCKS:minecraft:mineable/pickaxe": [
+      "~CUSTOM:HardenedVoid"
+    ],
+    "BLOCKS:minecraft:needs_stone_tool": [
+      "~CUSTOM:Sakuraleaves"
     ]
   },
   "language_map": {
@@ -1502,11 +1511,11 @@
       "block.horizonrpmod.hardened_void": "Hardened Void",
       "item.horizonrpmod.floeniaday.desc": "Floenia Daytime - Season 3",
       "item.horizonrpmod.adaigo": "Adaigo for my Blackbird",
-      "subtitles.festival": "",
       "subtitles.uncertainwaves": "",
+      "subtitles.festival": "",
       "subtitles.scarletmusicbox": "",
-      "item.horizonrpmod.voidtendril": "Void Tendril",
       "item.horizonrpmod.cardinalbattle.desc": "Fragment of the Fairytale - Season 1",
+      "item.horizonrpmod.voidtendril": "Void Tendril",
       "item.horizonrpmod.thirtyminutes.desc": "Thirty Minutes - Season 1",
       "item.horizonrpmod.raindrops.desc": "Raindrops Amidst Blades - Season 3",
       "item.horizonrpmod.waves.desc": "Withering Waves - Season 2",
@@ -1617,7 +1626,7 @@
   "workspaceSettings": {
     "modid": "horizonrpmod",
     "modName": "Horizon Rp Mod",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author": "Alkia, Roguen",
     "websiteURL": "https://social.mtdv.me/blog/posts/horizonrpstory",
     "license": "Not specified",

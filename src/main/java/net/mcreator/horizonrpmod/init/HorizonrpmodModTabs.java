@@ -79,6 +79,7 @@ public class HorizonrpmodModTabs {
 				tabData.accept(HorizonrpmodModItems.TEARSOFTIME.get());
 				tabData.accept(HorizonrpmodModItems.UNCERTAINWAVES.get());
 				tabData.accept(HorizonrpmodModItems.FATHER.get());
+				tabData.accept(HorizonrpmodModBlocks.ANTIVOID.get().asItem());
 			})
 
 					.build());

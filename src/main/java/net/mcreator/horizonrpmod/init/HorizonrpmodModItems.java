@@ -128,6 +128,7 @@ public class HorizonrpmodModItems {
 	public static final RegistryObject<Item> TEARSOFTIME = REGISTRY.register("tearsoftime", () -> new TearsoftimeItem());
 	public static final RegistryObject<Item> UNCERTAINWAVES = REGISTRY.register("uncertainwaves", () -> new UncertainwavesItem());
 	public static final RegistryObject<Item> FATHER = REGISTRY.register("father", () -> new FatherItem());
+	public static final RegistryObject<Item> ANTIVOID = block(HorizonrpmodModBlocks.ANTIVOID);
 
 	// Start of user code block custom items
 	// End of user code block custom items

@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
+    "horizonrpmod:antivoid",
     "horizonrpmod:sakuraleaves"
   ]
 }

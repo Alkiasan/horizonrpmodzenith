@@ -21,6 +21,7 @@ import net.mcreator.horizonrpmod.block.HardenedVoidBlock;
 import net.mcreator.horizonrpmod.block.ExplosivevoidBlock;
 import net.mcreator.horizonrpmod.block.CrystalizedvoidBlock;
 import net.mcreator.horizonrpmod.block.BluelilacBlock;
+import net.mcreator.horizonrpmod.block.AntivoidBlock;
 import net.mcreator.horizonrpmod.HorizonrpmodMod;
 
 public class HorizonrpmodModBlocks {
@@ -36,6 +37,7 @@ public class HorizonrpmodModBlocks {
 	public static final RegistryObject<Block> VOIDBLOCK = REGISTRY.register("voidblock", () -> new VoidblockBlock());
 	public static final RegistryObject<Block> EXPLOSIVEVOID = REGISTRY.register("explosivevoid", () -> new ExplosivevoidBlock());
 	public static final RegistryObject<Block> CRYSTALIZEDVOID = REGISTRY.register("crystalizedvoid", () -> new CrystalizedvoidBlock());
+	public static final RegistryObject<Block> ANTIVOID = REGISTRY.register("antivoid", () -> new AntivoidBlock());
 	// Start of user code block custom blocks
 	// End of user code block custom blocks
 }

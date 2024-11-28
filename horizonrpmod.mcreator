@@ -1142,6 +1142,23 @@
           }
         ]
       }
+    },
+    {
+      "name": "Antivoid",
+      "type": "block",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "antivoid",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/horizonrpmod/loot_tables/blocks/antivoid.json",
+          "src/main/resources/assets/horizonrpmod/blockstates/antivoid.json",
+          "src/main/java/net/mcreator/horizonrpmod/block/AntivoidBlock.java",
+          "src/main/resources/assets/horizonrpmod/models/item/antivoid.json",
+          "src/main/resources/assets/horizonrpmod/models/block/antivoid.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -1478,9 +1495,11 @@
     ],
     "BLOCKS:minecraft:dirt": [],
     "BLOCKS:minecraft:mineable/pickaxe": [
+      "~CUSTOM:Antivoid",
       "~CUSTOM:HardenedVoid"
     ],
     "BLOCKS:minecraft:needs_stone_tool": [
+      "~CUSTOM:Antivoid",
       "~CUSTOM:Sakuraleaves"
     ]
   },
@@ -1593,6 +1612,7 @@
       "block.horizonrpmod.staticvoid": "Static Void",
       "subtitles.floeniamidday": "",
       "item.horizonrpmod.floeniaday": "Daytime - Floenia",
+      "block.horizonrpmod.antivoid": "Celestian Void",
       "item.horizonrpmod.crimson.desc": "Crimson - Season 1",
       "block.horizonrpmod.bluelilac": "Blue Lilac",
       "item.horizonrpmod.whatwebecame.desc": "What We Became - Season 1",
